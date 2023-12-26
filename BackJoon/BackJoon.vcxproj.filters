@@ -201,5 +201,8 @@
     <ClCompile Include="14 1로 만들기 1463.cpp">
       <Filter>소스 파일\2023_12</Filter>
     </ClCompile>
+    <ClCompile Include="26 최댓값 2566.cpp">
+      <Filter>소스 파일\2023_12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
