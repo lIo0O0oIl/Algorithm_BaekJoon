@@ -214,6 +214,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="30 수 정렬하기 3 10989.cpp" />
+    <ClCompile Include="31 요세푸스 문제 0 11866.cpp" />
     <ClCompile Include="4 성택이의 은밀한 비밀번호 25372.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>

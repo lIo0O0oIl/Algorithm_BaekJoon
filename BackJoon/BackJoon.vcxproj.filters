@@ -216,5 +216,8 @@
     <ClCompile Include="30 수 정렬하기 3 10989.cpp">
       <Filter>소스 파일\2023_12</Filter>
     </ClCompile>
+    <ClCompile Include="31 요세푸스 문제 0 11866.cpp">
+      <Filter>소스 파일\2023_12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
