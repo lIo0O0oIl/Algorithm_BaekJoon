@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\2023_12">
       <UniqueIdentifier>{f3e2acda-dffe-4ff1-8aa2-d24ef5b3ef5c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_1">
+      <UniqueIdentifier>{409a7319-5511-4bc5-b007-84f79718afe1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -227,6 +230,9 @@
     </ClCompile>
     <ClCompile Include="2 세 막대 14215.cpp">
       <Filter>소스 파일\Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="5 제로 10773.cpp">
+      <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
