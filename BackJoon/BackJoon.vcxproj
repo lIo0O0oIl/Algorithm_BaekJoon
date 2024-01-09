@@ -287,6 +287,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="8 달나라 토끼를 위한 구매대금 지불 도우미 17212.cpp" />
+    <ClCompile Include="9 괄호 9012.cpp" />
     <ClCompile Include="9 긴자리 계산 2338.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
