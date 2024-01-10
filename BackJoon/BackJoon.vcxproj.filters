@@ -234,9 +234,6 @@
     <ClCompile Include="8 10부제 10797.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
-    <ClCompile Include="9 괄호 9012.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="1 약수 구하기 2501.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
@@ -245,6 +242,12 @@
     </ClCompile>
     <ClCompile Include="뭐야이거.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="9 괄호 9012.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="10 저작권 2914.cpp">
+      <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
