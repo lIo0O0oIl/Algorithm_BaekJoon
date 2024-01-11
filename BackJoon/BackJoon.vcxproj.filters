@@ -246,8 +246,11 @@
     <ClCompile Include="9 괄호 9012.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
-    <ClCompile Include="10 저작권 2914.cpp">
+    <ClCompile Include="11 균형잡힌 세상 4949.cpp">
       <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="10 저작권 2914.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
