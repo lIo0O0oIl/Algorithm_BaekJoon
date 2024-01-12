@@ -252,5 +252,8 @@
     <ClCompile Include="10 저작권 2914.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
+    <ClCompile Include="12 열 개씩 끊어 출력하기 11721.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
