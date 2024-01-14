@@ -258,5 +258,8 @@
     <ClCompile Include="13 도키도키 간식드리미 12789.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
+    <ClCompile Include="소스dsf.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
