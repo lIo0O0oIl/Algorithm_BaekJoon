@@ -258,8 +258,11 @@
     <ClCompile Include="13 도키도키 간식드리미 12789.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
-    <ClCompile Include="소스dsf.cpp">
+    <ClCompile Include="14 뉴비의 기준은 뭘까 19944.cpp">
       <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="덱 2 28279.cpp">
+      <Filter>소스 파일\Extra</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
