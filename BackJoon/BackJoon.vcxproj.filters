@@ -267,5 +267,8 @@
     <ClCompile Include="16 플러그 2010.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
+    <ClCompile Include="풍선 터뜨리기 2346.cpp">
+      <Filter>소스 파일\Extra</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
