@@ -270,5 +270,11 @@
     <ClCompile Include="풍선 터뜨리기 2346.cpp">
       <Filter>소스 파일\Extra</Filter>
     </ClCompile>
+    <ClCompile Include="17 파일 옮기기 11943.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="18 지능형 기차 2455.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
