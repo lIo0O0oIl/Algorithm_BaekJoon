@@ -2,21 +2,28 @@
 
 #include <iostream>
 #include <deque>
+#include <set>
 using namespace std;
 
 int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr); cout.tie(nullptr);
+
 	int n, input, now, nowNum = 1;
 	deque<int> deque;
+	set<int> set;
 	cin >> n;
 	for (int i = 0; i < n; i++)
 	{
 		cin >> input;
 		deque.push_back(input);		// 순서대로 놓고
+		set.insert(i + 1);
 	}
 
 	now = deque.front();
 	deque.pop_front();
 	cout << nowNum << " ";
+	set.erase(1);
 
 	while (!deque.empty()) {		// 비어있을 때까지
 
@@ -26,11 +33,21 @@ int main() {
 				deque.push_back(deque.front());
 				deque.pop_front();
 				nowNum++;
+				while (set.find(nowNum) == set.end())
+				{
+					nowNum++;
+					if (nowNum > n) nowNum -= n;
+				}
 			}
 			else {		// 음수면 뒤에있는 걸 앞으로 넣어줌.
 				deque.push_front(deque.back());
 				deque.pop_back();
 				nowNum--;
+				while (set.find(nowNum) == set.end())
+				{
+					nowNum--;
+					if (nowNum <= 0) nowNum = n;
+				}
 			}
 		}
 
@@ -38,15 +55,25 @@ int main() {
 			now = deque.front();
 			deque.pop_front();
 			nowNum++;
-			if (nowNum > n) nowNum -= n;
+			while (set.find(nowNum) == set.end())
+			{
+				nowNum++;
+				if (nowNum > n) nowNum -= n;
+			}
 			cout << nowNum << " ";
+			set.erase(nowNum);
 		}
 		else {
 			now = deque.back();
 			deque.pop_back();
 			nowNum--;
-			if (nowNum < 0) nowNum = abs(0 - nowNum);
+			while (set.find(nowNum) == set.end())
+			{
+				nowNum--;
+				if (nowNum <= 0) nowNum = n;
+			}
 			cout << nowNum << " ";
+			set.erase(nowNum);
 		}
 	}
 }
@@ -74,7 +101,7 @@ int main() {
 
 3 1 4 2 -2 -1
 = 1 4 6 5 2 3
-뺀 순서 3 2 -1 -2 1 -4
+뺀 순서 3 2 -1 -2 1 4
 
 
 1	3빼고 3더하기
@@ -84,4 +111,5 @@ int main() {
 2 1 빼고 1 더하기
 3
 
+아 진짜 모르겠다 이게 뭐야 ㅠ
 */
