@@ -5,8 +5,12 @@
 using namespace std;
 
 int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr); cout.tie(nullptr);
+
 	int n, input, m, now = 0;
-	int queuestack[100001] = { 0 };
+	//int queuestack[100001] = { 0 };
+	vector<int> queuestack;
 	vector<int> v;
 	cin >> n;
 
@@ -18,43 +22,42 @@ int main() {
 	for (int i = 0; i < n; i++)
 	{
 		cin >> input;
-		queuestack[i] = input;
+		queuestack.push_back(input);
+		//queuestack[i] = input;
 	}
+
+	queuestack.push_back(0);
 
 	cin >> m;
 
-	for (int j = 0; j < n; j++)
-	{
-		cout << queuestack[j] << " ";
-	}		// 디버그용
+	//for (int j = 0; j < n; j++)
+	//{
+	//	cout << queuestack[j] << " ";
+	//}		// 디버그용
 
 	for (int i = 0; i < m; i++)
 	{
 		cin >> input;
+		now = input;
 		for (int j = 0; j < n; j++)
 		{
 			if (v[j] == 0) {		// 큐라면
+				int temp = now;
 				now = queuestack[j];		// 기존에 있던 것 pop
 				if (queuestack[j + 1] == 1)
 				{
 					queuestack[j + 1] = queuestack[j];
 				}
-				queuestack[j] = input;		// 나는 새로 입력 받은 것
-			}
-			else {
-				if (queuestack[j + 1] == 1)
-				{
-					queuestack[j + 1] = queuestack[j];
-				}
-				now = queuestack[j];	// 나 자신 바로 넣어주기
+				queuestack[j] = temp;		// 나는 새로 입력 받은 것
 			}
 		}
 
-		cout << endl << now << endl;		// 고쳐주기
-		for (int j = 0; j < n; j++)
-		{
-			cout << queuestack[j] << " ";
-		}		// 디버그용
+		cout << now << " ";
+		//cout << endl << now << endl;
+		//for (int j = 0; j < n; j++)
+		//{
+		//	cout << queuestack[j] << " ";
+		//}		// 디버그용
 	}
 }
 

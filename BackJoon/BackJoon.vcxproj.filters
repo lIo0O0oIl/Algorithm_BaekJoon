@@ -288,10 +288,13 @@
     <ClCompile Include="22 인공지능 시계 2530.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
-    <ClCompile Include="24 queuestack 24511.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="23 웰컴 5337.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="queuestack 24511.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="24 바구니 뒤집기 10811.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
   </ItemGroup>

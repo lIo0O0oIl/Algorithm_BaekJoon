@@ -199,7 +199,8 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="23 웰컴 5337.cpp" />
-    <ClCompile Include="24 queuestack 24511.cpp" />
+    <ClCompile Include="24 바구니 뒤집기 10811.cpp" />
+    <ClCompile Include="queuestack 24511.cpp" />
     <ClCompile Include="24 X보다 작은 수 10871.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
