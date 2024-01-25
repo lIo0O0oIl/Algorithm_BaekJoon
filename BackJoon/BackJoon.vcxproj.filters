@@ -297,5 +297,8 @@
     <ClCompile Include="24 바구니 뒤집기 10811.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
+    <ClCompile Include="25 특별한 학교 이름 27889.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
