@@ -300,5 +300,8 @@
     <ClCompile Include="25 특별한 학교 이름 27889.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
+    <ClCompile Include="26 FBI 2857.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

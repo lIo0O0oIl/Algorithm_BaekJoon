@@ -9,7 +9,6 @@ int main() {
 	cin.tie(nullptr); cout.tie(nullptr);
 
 	int n, input, m, now = 0;
-	//int queuestack[100001] = { 0 };
 	vector<int> queuestack;
 	vector<int> v;
 	cin >> n;
@@ -64,6 +63,12 @@ int main() {
 
 /*
 * 
+4
+0 1 1 0
+1 2 3 4
+3
+2 4 7
+ 
 1		큐
 2		스택
 3		스택			선입후출
