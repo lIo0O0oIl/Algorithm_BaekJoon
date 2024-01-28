@@ -306,5 +306,8 @@
     <ClCompile Include="27 카드 게임 5522.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
+    <ClCompile Include="28 조별과제를 하려는데 조장이 사라졌다 15727.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
