@@ -312,5 +312,8 @@
     <ClCompile Include="29 제리와 톰 16430.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
+    <ClCompile Include="30 공 넣기 10810.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

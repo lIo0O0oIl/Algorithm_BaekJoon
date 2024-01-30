@@ -220,6 +220,7 @@
     </ClCompile>
     <ClCompile Include="28 조별과제를 하려는데 조장이 사라졌다 15727.cpp" />
     <ClCompile Include="29 제리와 톰 16430.cpp" />
+    <ClCompile Include="30 공 넣기 10810.cpp" />
     <ClCompile Include="queuestack 24511.cpp" />
     <ClCompile Include="24 X보다 작은 수 10871.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
