@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\2024_1">
       <UniqueIdentifier>{409a7319-5511-4bc5-b007-84f79718afe1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_2">
+      <UniqueIdentifier>{927d0182-0094-41d8-91f0-6fed6ae2fe9c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -67,9 +70,6 @@
       <Filter>소스 파일\2023_10</Filter>
     </ClCompile>
     <ClCompile Include="트리의 부모 찾기 11725.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
-    <ClCompile Include="소스.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
     <ClCompile Include="26 오븐 시계 2525.cpp">
@@ -234,23 +234,11 @@
     <ClCompile Include="8 10부제 10797.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
-    <ClCompile Include="1 약수 구하기 2501.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
-    <ClCompile Include="2 세 막대 14215.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
-    <ClCompile Include="뭐야이거.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="9 괄호 9012.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
     <ClCompile Include="11 균형잡힌 세상 4949.cpp">
       <Filter>소스 파일\2024_1</Filter>
-    </ClCompile>
-    <ClCompile Include="10 저작권 2914.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
     <ClCompile Include="12 열 개씩 끊어 출력하기 11721.cpp">
       <Filter>소스 파일\2024_1</Filter>
@@ -314,6 +302,24 @@
     </ClCompile>
     <ClCompile Include="30 공 넣기 10810.cpp">
       <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="31 와이버스 부릉부릉 14645.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="1 약수 구하기 2501.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="2 세 막대 14215.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="10 저작권 2914.cpp">
+      <Filter>소스 파일\2024_1</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형 외우기 10101.cpp">
+      <Filter>소스 파일\Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
