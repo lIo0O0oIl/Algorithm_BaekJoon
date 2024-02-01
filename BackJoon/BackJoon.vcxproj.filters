@@ -318,7 +318,7 @@
     <ClCompile Include="삼각형 외우기 10101.cpp">
       <Filter>소스 파일\Extra</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="1 팰린드롬인지 확인하기 10988.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
   </ItemGroup>
