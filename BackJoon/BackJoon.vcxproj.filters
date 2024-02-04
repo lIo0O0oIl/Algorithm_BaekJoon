@@ -324,11 +324,14 @@
     <ClCompile Include="2 유치원생 파댕이 돌보기 30979.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
-    <ClCompile Include="너의 평점은 25206.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="3 평균 점수 10039.cpp">
       <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
+    <ClCompile Include="4 너의 평점은 25206.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
+    <ClCompile Include="콜센터 5339.cpp">
+      <Filter>소스 파일\Extra</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
