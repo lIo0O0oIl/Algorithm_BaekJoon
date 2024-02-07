@@ -336,5 +336,11 @@
     <ClCompile Include="6 자동완성 24883.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="7 크로아티아 알파벳 2941.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
+    <ClCompile Include="7 체육은 코딩과목 입니다 28295.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
