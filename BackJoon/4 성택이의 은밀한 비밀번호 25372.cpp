@@ -11,12 +11,11 @@ int main() {
 	for (int i = 0; i < n; i++)
 	{
 		cin >> input;
-			if (input.size() <= 9 || input.size() <= 6) {		// 9자리이면
-				cout << "yes" << endl;
-			}
-			else {
-				cout << "no" << endl;
-			}
+		if (input.size() <= 9 || input.size() <= 6) {		// 9자리이면
+			cout << "yes" << endl;
+		}
+		else {
+			cout << "no" << endl;
 		}
 	}
 }

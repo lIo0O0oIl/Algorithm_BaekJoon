@@ -5,16 +5,27 @@
 using namespace std;
 
 int main() {
-	string arr[8] = { "c=", "c-", "d-", "lj", "nj", "s=", "z=", "dz=" };
-	string input;
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr); cout.tie(nullptr);
+
+	string arr[8] = { "c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z=" };
+	string input, now = "";
 	int count = 0;
 	cin >> input;
-	for (int i = 0; i < 8; i++)
+	for (int i = 0; i < input.size() - 1; i++)
 	{
-		if (input.find(arr[i]) != string::npos)
+		now = input[i];
+		now += input[i + 1];
+		now += input[i + 2];
+
+		for (int j = 0; j < 8; j++)
 		{
-			input.replace(input.find(arr[i]), arr[i].size(), "_");
-			count++;
+			if (now.find(arr[j]) != string::npos)
+			{
+				input.replace(input.find(arr[j]), arr[j].size(), "_");
+				count++;
+				break;
+			}
 		}
 	}
 	for (int i = 0; i < input.size(); i++)
@@ -23,3 +34,14 @@ int main() {
 	}
 	cout << count;
 }
+
+/*
+c=
+c-
+d-
+lj
+nj
+s=
+z=
+dz=
+*/
