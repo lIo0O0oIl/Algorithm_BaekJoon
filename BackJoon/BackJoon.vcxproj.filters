@@ -345,5 +345,11 @@
     <ClCompile Include="8 분산처리 1009.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
+    <ClCompile Include="9 다리 놓기 1010.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="9 방학 숙세 5532.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
