@@ -357,5 +357,8 @@
     <ClCompile Include="고대려는 사랑입니다 11942.cpp">
       <Filter>소스 파일\Extra</Filter>
     </ClCompile>
+    <ClCompile Include="12 세 수 2985.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
