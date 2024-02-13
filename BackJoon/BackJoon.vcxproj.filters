@@ -360,5 +360,11 @@
     <ClCompile Include="12 세 수 2985.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="13 그룹 단어 체커 1316.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
+    <ClCompile Include="13 관공 어찌하여 목만 오셨소 30501.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
