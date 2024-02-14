@@ -366,5 +366,11 @@
     <ClCompile Include="13 관공 어찌하여 목만 오셨소 30501.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="14 세로읽기 10798.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
+    <ClCompile Include="14 스타워즈 로고 9653.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

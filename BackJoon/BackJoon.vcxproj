@@ -169,6 +169,11 @@
     <ClCompile Include="13 관공 어찌하여 목만 오셨소 30501.cpp" />
     <ClCompile Include="13 그룹 단어 체커 1316.cpp" />
     <ClCompile Include="13 도키도키 간식드리미 12789.cpp" />
+    <ClCompile Include="14 세로읽기 10798.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="14 스타워즈 로고 9653.cpp" />
     <ClCompile Include="17 파일 옮기기 11943.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
