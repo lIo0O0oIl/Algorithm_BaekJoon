@@ -372,5 +372,8 @@
     <ClCompile Include="14 스타워즈 로고 9653.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="15 햄버거 만들기 25628.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
