@@ -381,5 +381,8 @@
     <ClCompile Include="16 진법 변환 2745.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="16 Hello Judge 9316.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
