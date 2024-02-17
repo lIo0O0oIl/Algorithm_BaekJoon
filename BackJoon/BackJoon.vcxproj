@@ -181,6 +181,7 @@
     <ClCompile Include="15 햄버거 만들기 25628.cpp" />
     <ClCompile Include="16 Hello Judge 9316.cpp" />
     <ClCompile Include="16 진법 변환 2745.cpp" />
+    <ClCompile Include="17 양말 짝 맞추기 28431.cpp" />
     <ClCompile Include="17 파일 옮기기 11943.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
