@@ -399,5 +399,8 @@
     <ClCompile Include="20 Who is in the middle 6840.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="21 선린인터넷고등학교 교가 21964.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
