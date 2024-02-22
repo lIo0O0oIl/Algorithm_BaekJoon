@@ -402,5 +402,8 @@
     <ClCompile Include="21 선린인터넷고등학교 교가 21964.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="22 나부 함대 데이터 9654.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
