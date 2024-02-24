@@ -411,5 +411,8 @@
     <ClCompile Include="23 치즈버거 만들기 30017.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="24 중앙 이동 알고리즘 2903.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
