@@ -423,5 +423,8 @@
     <ClCompile Include="26 수 정렬하기 2750.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="27 럭비 클럽 2083.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
