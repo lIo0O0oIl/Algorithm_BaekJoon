@@ -420,5 +420,8 @@
     <ClCompile Include="배수와 약수 5086.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
+    <ClCompile Include="26 수 정렬하기 2750.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
