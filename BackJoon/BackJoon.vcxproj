@@ -305,6 +305,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="28 Hook 10189.cpp" />
     <ClCompile Include="28 조별과제를 하려는데 조장이 사라졌다 15727.cpp" />
     <ClCompile Include="29 제리와 톰 16430.cpp" />
     <ClCompile Include="3 평균 점수 10039.cpp" />
