@@ -432,5 +432,8 @@
     <ClCompile Include="29 베라의 패션 15439.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
+    <ClCompile Include="30 Serca 26766.cpp">
+      <Filter>소스 파일\2024_2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -491,6 +491,7 @@
     </ClCompile>
     <ClCompile Include="16 플러그 2010.cpp" />
     <ClCompile Include="Rook 2393.cpp" />
+    <ClCompile Include="30 Serca 26766.cpp" />
     <ClCompile Include="고대려는 사랑입니다 11942.cpp" />
     <ClCompile Include="과제 안 내신 분 5597.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
