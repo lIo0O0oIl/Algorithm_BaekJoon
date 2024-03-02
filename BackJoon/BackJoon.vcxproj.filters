@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\2024_2">
       <UniqueIdentifier>{927d0182-0094-41d8-91f0-6fed6ae2fe9c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_3">
+      <UniqueIdentifier>{c903adf4-d155-4dc8-a3ad-41b190a7e09e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -432,8 +435,11 @@
     <ClCompile Include="29 베라의 패션 15439.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
-    <ClCompile Include="30 Serca 26766.cpp">
-      <Filter>소스 파일\2024_2</Filter>
+    <ClCompile Include="1 Serca 26766.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="2 사장님 도박은 재미로 하셔야 합니다 23795.cpp">
+      <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
