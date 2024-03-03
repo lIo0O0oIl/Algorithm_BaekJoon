@@ -441,5 +441,8 @@
     <ClCompile Include="2 사장님 도박은 재미로 하셔야 합니다 23795.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="3 MBTI 25640.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

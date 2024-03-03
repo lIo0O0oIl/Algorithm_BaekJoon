@@ -232,7 +232,10 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="2 사장님 도박은 재미로 하셔야 합니다 23795.cpp" />
+    <ClCompile Include="2 사장님 도박은 재미로 하셔야 합니다 23795.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="2 세 막대 14215.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
@@ -306,10 +309,17 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="28 Hook 10189.cpp" />
+    <ClCompile Include="28 Hook 10189.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="28 조별과제를 하려는데 조장이 사라졌다 15727.cpp" />
-    <ClCompile Include="29 베라의 패션 15439.cpp" />
+    <ClCompile Include="29 베라의 패션 15439.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="29 제리와 톰 16430.cpp" />
+    <ClCompile Include="3 MBTI 25640.cpp" />
     <ClCompile Include="3 평균 점수 10039.cpp" />
     <ClCompile Include="30 공 넣기 10810.cpp" />
     <ClCompile Include="31 와이버스 부릉부릉 14645.cpp">
@@ -492,7 +502,10 @@
     </ClCompile>
     <ClCompile Include="16 플러그 2010.cpp" />
     <ClCompile Include="Rook 2393.cpp" />
-    <ClCompile Include="1 Serca 26766.cpp" />
+    <ClCompile Include="1 Serca 26766.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="고대려는 사랑입니다 11942.cpp" />
     <ClCompile Include="과제 안 내신 분 5597.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
