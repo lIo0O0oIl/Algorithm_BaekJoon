@@ -450,5 +450,8 @@
     <ClCompile Include="5 민주주의 30999.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="6 Can you add this 7891.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
