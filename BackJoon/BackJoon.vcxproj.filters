@@ -456,5 +456,8 @@
     <ClCompile Include="7 음계 2920.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="8 그게 무슨 코드니 31495.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
