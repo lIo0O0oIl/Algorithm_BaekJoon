@@ -158,6 +158,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="11 뜨거운 붕어빵 11945.cpp" />
+    <ClCompile Include="11 시계탑 31561.cpp" />
     <ClCompile Include="12 세 수 2985.cpp" />
     <ClCompile Include="12 열 개씩 끊어 출력하기 11721.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
