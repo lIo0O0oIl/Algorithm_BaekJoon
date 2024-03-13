@@ -468,5 +468,8 @@
     <ClCompile Include="12 상근이의 친구들 5717.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="13 Plane 8370.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
