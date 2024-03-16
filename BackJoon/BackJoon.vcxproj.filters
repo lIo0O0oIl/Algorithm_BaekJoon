@@ -474,5 +474,14 @@
     <ClCompile Include="14 호반우가 학교에 지각한 이유 1.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="보석 도둑.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="도둑쉨.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="16 별 찍기 - 14 2556.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
