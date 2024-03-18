@@ -10,5 +10,8 @@ https://www.acmicpc.net/problem/17212
 트리의 부모 찾기... 풀리긴 한거같은데 저거 이해를 못한거야 아님 머야?
 
 
+https://www.acmicpc.net/problem/1531
+이거 문제 2차원 배열 써서 풀면 될 것 같음
+
 
 */

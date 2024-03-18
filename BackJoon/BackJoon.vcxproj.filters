@@ -318,9 +318,6 @@
     <ClCompile Include="10 저작권 2914.cpp">
       <Filter>소스 파일\2024_1</Filter>
     </ClCompile>
-    <ClCompile Include="삼각형 외우기 10101.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="1 팰린드롬인지 확인하기 10988.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
@@ -414,9 +411,6 @@
     <ClCompile Include="25 감마선을 맞은 컴퓨터 30402.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
-    <ClCompile Include="배수와 약수 5086.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="26 수 정렬하기 2750.cpp">
       <Filter>소스 파일\2024_2</Filter>
     </ClCompile>
@@ -488,6 +482,18 @@
     </ClCompile>
     <ClCompile Include="15 The World Responds 23234.cpp">
       <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="18 검증수 2475.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="18 배수와 약수 5086.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="18 삼각형 외우기 10101.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="Do Not Touch Anything 13136.cpp">
+      <Filter>소스 파일\Extra</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
