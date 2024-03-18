@@ -495,5 +495,8 @@
     <ClCompile Include="Do Not Touch Anything 13136.cpp">
       <Filter>소스 파일\Extra</Filter>
     </ClCompile>
+    <ClCompile Include="18 Rectangles 15232.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
