@@ -4,11 +4,15 @@ using namespace std;
 
 struct Item
 {
-	double m, v;
+	double m, v;		// 무게, 가격
 };
 
-bool Compare(Item one, Item two)
+bool Compare(Item one, Item two)		// 비싸고 무거운 순으로 정렬
 {
+	if (one.v != two.v)			// 
+	{
+
+	}
 	return one.v / one.m > two.v / two.m;
 }
 
@@ -54,6 +58,29 @@ int main() {
 2
 2
 = 7
+
+
+입력 :
+3 2
+1 65
+5 23
+2 99
+10
+2
+
+정렬 :
+1 65
+2 99
+5 23
+
+넣어진 것 :
+10 - 1 65
+2  - 2 99
+
+답 :
+164
+
+
 
 https://www.acmicpc.net/board/view/107919
 
