@@ -510,5 +510,8 @@
     <ClCompile Include="20 OX퀴즈 8958.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="21 단어 정렬 1181.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
