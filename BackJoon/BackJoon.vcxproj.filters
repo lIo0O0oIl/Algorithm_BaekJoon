@@ -513,5 +513,8 @@
     <ClCompile Include="21 단어 정렬 1181.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="21 코드마스터 2023 28235.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
