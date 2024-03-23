@@ -492,9 +492,6 @@
     <ClCompile Include="18 삼각형 외우기 10101.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
-    <ClCompile Include="Do Not Touch Anything 13136.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="18 Rectangles 15232.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
@@ -518,6 +515,12 @@
     </ClCompile>
     <ClCompile Include="22 스택 10828.cpp">
       <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="23 Do Not Touch Anything 13136.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="22 마인크래프트 18111.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	int r, c, n;
+	long long r, c, n;
 	cin >> r >> c >> n;
 	r = r % n != 0 ? (r / n) + 1 : r / n;
 	c = c % n != 0 ? (c / n) + 1 : c / n;
