@@ -6,12 +6,32 @@
 #include <vector>
 using namespace std;
 
-void dfs(int n)
-{
-
-}
+vector<vector<int>> graph;
+vector<bool> visited;
 
 void bfs(int n)
+{
+	queue<int> q;
+	q.push(n);
+	visited[n] = true;
+	while (!q.empty())
+	{
+		int temp = q.front();
+		q.pop();
+		cout << temp << ' ';
+		for (int i = 0; i < graph[temp].size(); i++)
+		{
+			int next = graph[temp][i];
+			if (visited[next] == false)
+			{
+				q.push(next);
+				visited[next] = true;
+			}
+		}
+	}
+}
+
+void dfs(int n)
 {
 	visited[n] = true;		// 방문처리
 	cout << n << ' ';
@@ -20,13 +40,10 @@ void bfs(int n)
 		int next = graph[n][i];		// 갈 수 있는 것
 		if (visited[next] == false)			// 갈 수 있는 정점이 한번도 방문하지 않은 곳이라면
 		{
-			bfs(next);
+			dfs(next);
 		}
 	}
 }
-
-vector<vector<int>> graph;
-vector<bool> visited;
 
 int main() {
 	int n, m, v;		// 정점의 개수, 간선의 개수, 탐색 시작 정점 번호
@@ -41,15 +58,14 @@ int main() {
 		graph[a].push_back(b);
 		graph[b].push_back(a);		// 양방향 연결
 	}
-	for (int i = 0; i < n; i++)
+	for (int i = 1; i <= n; i++)
 	{
 		// 정점 정렬
 		sort(graph[i].begin(), graph[i].end());
 	}
 
 	dfs(v);
+	visited.assign(n + 1, false);
 	cout << '\n';
 	bfs(v);
 }
-
-// 간선은 정렬되야 함.
