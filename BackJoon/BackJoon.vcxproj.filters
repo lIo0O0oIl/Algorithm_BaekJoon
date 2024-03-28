@@ -531,9 +531,6 @@
     <ClCompile Include="25 Everyone is a winner 31450.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
-    <ClCompile Include="직각삼각형 4153.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="26 !밀비 급일 11365.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
@@ -541,6 +538,15 @@
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
     <ClCompile Include="27 치킨댄스를 추는 곰곰이를 본 임스 25191.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="26 직각삼각형 4153.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="28 프린터 큐.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="28 요세푸스 문제 1158.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
   </ItemGroup>

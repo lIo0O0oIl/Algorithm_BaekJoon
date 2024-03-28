@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/11866
+// https://www.acmicpc.net/problem/1158
 
 #include <iostream>
 #include <queue>
@@ -6,8 +6,7 @@
 using namespace std;
 
 int main() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(nullptr), cout.tie(nullptr);
+
 
 	queue<int> q;
 	vector<int> v;
