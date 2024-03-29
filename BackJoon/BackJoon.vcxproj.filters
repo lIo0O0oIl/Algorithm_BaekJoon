@@ -552,5 +552,8 @@
     <ClCompile Include="28 스위트콘 가격 구하기 30030.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="29 소수 찾기 1978.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
