@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\2024_3">
       <UniqueIdentifier>{c903adf4-d155-4dc8-a3ad-41b190a7e09e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_4">
+      <UniqueIdentifier>{3018f830-ce0f-4b2a-92b7-afca63282bb3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -560,6 +563,9 @@
     </ClCompile>
     <ClCompile Include="31 라면 공식 30007.cpp">
       <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
+    <ClCompile Include="1 타임 카드 5575.cpp">
+      <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
