@@ -558,5 +558,8 @@
     <ClCompile Include="30 팰린드롬수 1259.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
+    <ClCompile Include="31 라면 공식 30007.cpp">
+      <Filter>소스 파일\2024_3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
