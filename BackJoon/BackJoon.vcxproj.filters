@@ -567,5 +567,11 @@
     <ClCompile Include="1 타임 카드 5575.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
+    <ClCompile Include="2 부녀회장이 될테야 2775.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="2 신부름 가는 길 5554.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
