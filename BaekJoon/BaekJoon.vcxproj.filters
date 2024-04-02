@@ -45,9 +45,6 @@
     <ClCompile Include="0의 개수 11170.cpp">
       <Filter>소스 파일\2023_10</Filter>
     </ClCompile>
-    <ClCompile Include="BackJoon.cpp">
-      <Filter>소스 파일\2023_10</Filter>
-    </ClCompile>
     <ClCompile Include="과제 안 내신 분 5597.cpp">
       <Filter>소스 파일\2023_10</Filter>
     </ClCompile>
@@ -572,6 +569,9 @@
     </ClCompile>
     <ClCompile Include="2 신부름 가는 길 5554.cpp">
       <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

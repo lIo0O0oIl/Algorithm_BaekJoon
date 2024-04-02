@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BackJoon", "BackJoon\BackJoon.vcxproj", "{DFCE379F-46BF-486B-887F-FFC280A4CE84}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaekJoon", "BaekJoon\BaekJoon.vcxproj", "{DFCE379F-46BF-486B-887F-FFC280A4CE84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
