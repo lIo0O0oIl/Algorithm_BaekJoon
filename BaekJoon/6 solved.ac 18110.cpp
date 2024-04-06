@@ -25,7 +25,7 @@ int main()
             v.push_back(m);
         }
 
-        k = round(n * 0.15);
+        k = round(n * 0.15);        // 절사평균 구하기
         sort(v.begin(), v.end());
 
         for (int i = k; i < v.size() - k; ++i)
