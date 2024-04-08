@@ -3,13 +3,13 @@
 #include <iostream>
 using namespace std;
 
-int arr[46] = {1, 1, 2, 3, 5};
+int arr[46] = {0, 1, 1, 2, 3, 5};
 
 int fibonacci(int n)
 {
 	if (arr[n] == 0)
 	{
-		arr[n] == fibonacci(n - 1) + fibonacci(n - 2);
+		arr[n] = fibonacci(n - 1) + fibonacci(n - 2);
 	}
 	return arr[n];
 }
@@ -19,6 +19,3 @@ int main() {
 	cin >> input;
 	cout << fibonacci(input);
 }
-
-
-// 이상함 바꾸기~

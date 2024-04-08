@@ -594,10 +594,10 @@
     <ClCompile Include="7 수 정렬하기 2 2751.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
-    <ClCompile Include="피보나치 수cpp.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="8 2007년 1924.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="8 피보나치 수 2747.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
   </ItemGroup>
