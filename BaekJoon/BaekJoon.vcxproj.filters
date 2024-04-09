@@ -600,5 +600,8 @@
     <ClCompile Include="8 피보나치 수 2747.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
+    <ClCompile Include="9 WARBOY 26082.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
