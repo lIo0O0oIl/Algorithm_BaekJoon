@@ -603,5 +603,17 @@
     <ClCompile Include="9 WARBOY 26082.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
+    <ClCompile Include="10 단어 뒤집기 2 17413.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="단어뒤집기.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="dhsmftl.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="dfsf.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
