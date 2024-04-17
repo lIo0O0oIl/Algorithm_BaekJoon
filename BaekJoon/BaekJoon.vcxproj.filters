@@ -627,8 +627,11 @@
     <ClCompile Include="15 나는 행복합니다~ 14652.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
-    <ClCompile Include="16 설탕 배달 2839.cpp">
+    <ClCompile Include="17 후위 표기식2 1935.cpp">
       <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="16 설탕 배달 2839.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,10 +1,13 @@
 // https://www.acmicpc.net/problem/17218
 
 #include <iostream>
+#include <map>
 #include <vector>
 using namespace std;
 
 int main() {
+	multimap<char, int> multimap;
+
 	string input1, input2;
 	vector<pair<char, int>> vec;
 	vector<pair<char, bool>> vec2;
