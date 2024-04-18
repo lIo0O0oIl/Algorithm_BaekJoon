@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 	int n, numInput;
-	double answer;
+	double answer = 0;
 	string input;
 	vector<pair<char, int>> letterVec;		// 알파벳과 그에 맞는 숫자
 	stack<double> me;		// mathematical expression (수식)

@@ -28,7 +28,7 @@ int main() {
 				{
 					if (abs(myIndex - yourIndex) < length)		// 거리가 지금 것보다 가깝다면
 					{
-						vec.erase({input1[i], });
+						//vec.erase({input1[i], });
 					}
 				}
 				else
@@ -39,7 +39,7 @@ int main() {
 				}
 			}
 		}
-		is_
+
 	}
 }
 
@@ -51,5 +51,8 @@ int main() {
 중복이 되는 문자열은 어떻게 하지?
 
 인덱스 값을 가져와서 그걸 길이를 재주면서 판단함.
+
+멀티맵을 써서 중복값도 더해서 사용을 해보자.
+
 
 */
