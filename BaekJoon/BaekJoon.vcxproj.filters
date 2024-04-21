@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\2024_4">
       <UniqueIdentifier>{3018f830-ce0f-4b2a-92b7-afca63282bb3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Extra">
+      <UniqueIdentifier>{3b3c01ad-f14a-4c14-8fd3-3cbb7169accd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -641,6 +644,12 @@
     </ClCompile>
     <ClCompile Include="21 ATM 11399.cpp">
       <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
+    <ClCompile Include="21 Darius님 한타 안 함 20499.cpp">
+      <Filter>Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="21 저항 1076.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
