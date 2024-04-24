@@ -657,5 +657,8 @@
     <ClCompile Include="23 차집합 1822.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
+    <ClCompile Include="24 A+B - 6 10953.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
