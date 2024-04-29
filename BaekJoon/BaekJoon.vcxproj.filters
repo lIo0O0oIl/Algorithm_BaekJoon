@@ -672,5 +672,8 @@
     <ClCompile Include="28 세제곱의 합 28701.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
+    <ClCompile Include="29 소트인사이드 1427.cpp">
+      <Filter>소스 파일\2024_4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

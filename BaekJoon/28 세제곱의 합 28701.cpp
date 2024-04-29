@@ -11,12 +11,8 @@ int main()
 
     for (int i = 1; i <= n; ++i)
         m += i;
+
     cout << m << '\n';
-    cout << m * m << '\n';
-    m = 0;
-    for (int i = 1; i <= n; ++i)
-    {
-        m += i * i * i;
-    }
-    cout << m << '\n';
+    int mm = m * m;
+    cout << mm << '\n' << mm;
 }
