@@ -690,5 +690,8 @@
     <ClCompile Include="2 이항 계수 1 11050.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="3 뒤집힌 덧셈 1357.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
