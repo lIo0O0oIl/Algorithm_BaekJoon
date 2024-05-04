@@ -693,5 +693,11 @@
     <ClCompile Include="3 뒤집힌 덧셈 1357.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="4 팀 나누기 13866.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
+    <ClCompile Include="대지 9063.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
