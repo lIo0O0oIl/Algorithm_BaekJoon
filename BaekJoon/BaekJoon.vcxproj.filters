@@ -702,5 +702,8 @@
     <ClCompile Include="5 비밀번호 찾기 17219.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="6 30 10610.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
