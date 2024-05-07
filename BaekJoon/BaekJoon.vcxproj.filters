@@ -705,5 +705,8 @@
     <ClCompile Include="6 30 10610.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="7 바이러스 2606.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
