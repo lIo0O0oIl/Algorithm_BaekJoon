@@ -714,6 +714,9 @@
     <ClCompile Include="9 Darius님 한타 안 함 20499.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="12 수도요금 10707.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
