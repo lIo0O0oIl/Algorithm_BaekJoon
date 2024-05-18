@@ -732,6 +732,9 @@
     <ClCompile Include="17 카드 11652.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="18 짝수를 찾아라 3058.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">

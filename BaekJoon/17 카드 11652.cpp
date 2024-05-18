@@ -11,7 +11,7 @@ int main()
 
 	map<long long, int> card;		// 숫자, 개수
 	int n;
-	long long input, num = 0, answer;
+	long long input, num = 0, answer = 0;
 	cin >> n;
 
 	for (int i = 0; i < n; i++)
