@@ -747,8 +747,11 @@
     <ClCompile Include="22 숨바꼭질 1697.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
-    <ClCompile Include="과목선택 11948.cpp">
-      <Filter>Extra</Filter>
+    <ClCompile Include="23 체스판 다시 칠하기 1018.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
+    <ClCompile Include="24 과목선택 11948.cpp">
+      <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
