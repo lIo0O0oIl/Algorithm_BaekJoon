@@ -28,6 +28,7 @@ int boardCheck(int _i, int _j)
 				else cnt++;
 			}
 		}
+		is_W = !is_W;
 	}
 	if (64 - cnt < cnt)
 	{
