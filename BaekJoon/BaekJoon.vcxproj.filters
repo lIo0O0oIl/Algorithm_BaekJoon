@@ -756,6 +756,9 @@
     <ClCompile Include="24 와글와글 숭고한 17388.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="25 SUAPC 2023 Summer 31429.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
