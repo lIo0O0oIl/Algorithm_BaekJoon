@@ -765,6 +765,9 @@
     <ClCompile Include="28 치킨 쿠폰 1673.cpp">
       <Filter>소스 파일\2024_5</Filter>
     </ClCompile>
+    <ClCompile Include="29 영화감독 숌 1436.cpp">
+      <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
