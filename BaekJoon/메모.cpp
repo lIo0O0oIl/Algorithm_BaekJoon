@@ -21,4 +21,9 @@ https://www.acmicpc.net/problem/1531
 이거 문제 2차원 배열 써서 풀면 될 것 같음
 
 
+
+
+
+
+
 */
