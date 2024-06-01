@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\2024_5">
       <UniqueIdentifier>{3d77b1e7-e82f-4cff-92d0-2f7193bc157c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_6">
+      <UniqueIdentifier>{67f536d7-1670-4787-8762-671d0fc40df2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -773,6 +776,9 @@
     </ClCompile>
     <ClCompile Include="31 팩토리얼 0의 개수 1676.cpp">
       <Filter>소스 파일\2024_5</Filter>
+    </ClCompile>
+    <ClCompile Include="1 마라탕후루 31923.cpp">
+      <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
