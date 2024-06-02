@@ -780,6 +780,12 @@
     <ClCompile Include="1 마라탕후루 31923.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
+    <ClCompile Include="1 벌집 2292.cpp">
+      <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2 Final Price 28224.cpp">
+      <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
