@@ -525,9 +525,6 @@
     <ClCompile Include="23 Do Not Touch Anything 13136.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
-    <ClCompile Include="마인크래프트 18111.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="24 등록 7387.cpp">
       <Filter>소스 파일\2024_3</Filter>
     </ClCompile>
@@ -796,6 +793,9 @@
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
     <ClCompile Include="7 Bottle Return 21300.cpp">
+      <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
+    <ClCompile Include="8 마인크래프트 18111.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
   </ItemGroup>
