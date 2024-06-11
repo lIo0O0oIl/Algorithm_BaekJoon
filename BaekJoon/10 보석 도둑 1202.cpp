@@ -41,20 +41,19 @@ int main() {
 		bags.insert(input);
 	}
 
-	int index = 0;		// 보석 가장 큰거
-
-	for (int i = 0; i < n; i++)		// 보석을 돌리면서 
+	for (int i = 0; i < n;)		// 보석을 돌리면서 
 	{
-		if (bags.lower_bound(item[index].m) == bags.end())		// 무게가 넣을 수 있는게 없으면
+		// // 가방에서 나의 무게를 견디지 못한다면
+		if (bags.lower_bound(item[i].m) == bags.end())
 		{
-			index++;
+			i++;
 			continue;
 		}
 
-		total += item[index].v;
+		total += item[i].v;
 
-		bags.erase(bags.lower_bound(item[index].m));
-		index++;
+		bags.erase(bags.lower_bound(item[i].m));		// 하나만 가능하니까
+		i++;
 	}
 
 	cout << total;
