@@ -807,6 +807,9 @@
     <ClCompile Include="12 Olympiad Pizza 15235.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
+    <ClCompile Include="13 사과 10833.cpp">
+      <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
