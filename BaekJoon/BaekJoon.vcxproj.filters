@@ -834,10 +834,10 @@
     <ClCompile Include="21 점수 계산 2822.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="22 기술 연계마스터 임스 25497.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="22 고려대학교에는 공식 와인이 있다 16673.cpp">
+      <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
+    <ClCompile Include="23 기술 연계마스터 임스 25497.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
   </ItemGroup>
