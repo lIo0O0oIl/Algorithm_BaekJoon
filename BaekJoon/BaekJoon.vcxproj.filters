@@ -852,6 +852,9 @@
     <ClCompile Include="26 카드1 2161.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
+    <ClCompile Include="27 대표값2 2587.cpp">
+      <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
