@@ -37,14 +37,17 @@
     <Filter Include="소스 파일\2024_4">
       <UniqueIdentifier>{3018f830-ce0f-4b2a-92b7-afca63282bb3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Extra">
-      <UniqueIdentifier>{3b3c01ad-f14a-4c14-8fd3-3cbb7169accd}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\2024_5">
       <UniqueIdentifier>{3d77b1e7-e82f-4cff-92d0-2f7193bc157c}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\2024_6">
       <UniqueIdentifier>{67f536d7-1670-4787-8762-671d0fc40df2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Solving">
+      <UniqueIdentifier>{5568ac36-6727-4d37-a6ce-f059368b4d93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Extra">
+      <UniqueIdentifier>{3b3c01ad-f14a-4c14-8fd3-3cbb7169accd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -77,9 +80,6 @@
     </ClCompile>
     <ClCompile Include="평균 1546.cpp">
       <Filter>소스 파일\2023_10</Filter>
-    </ClCompile>
-    <ClCompile Include="트리의 부모 찾기 11725.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
     <ClCompile Include="26 오븐 시계 2525.cpp">
       <Filter>소스 파일\2023_10</Filter>
@@ -287,9 +287,6 @@
     </ClCompile>
     <ClCompile Include="23 웰컴 5337.cpp">
       <Filter>소스 파일\2024_1</Filter>
-    </ClCompile>
-    <ClCompile Include="queuestack 24511.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
     <ClCompile Include="24 바구니 뒤집기 10811.cpp">
       <Filter>소스 파일\2024_1</Filter>
@@ -582,9 +579,6 @@
     <ClCompile Include="6 solved.ac 18110.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
-    <ClCompile Include="종이자르기.ing 2628.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="7 수 정렬하기 2 2751.cpp">
       <Filter>소스 파일\2024_4</Filter>
     </ClCompile>
@@ -605,9 +599,6 @@
     </ClCompile>
     <ClCompile Include="11 오늘의 날짜는 16170.cpp">
       <Filter>소스 파일\2024_4</Filter>
-    </ClCompile>
-    <ClCompile Include="비밀번호 만들기.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
     <ClCompile Include="12 홀수 2576.cpp">
       <Filter>소스 파일\2024_4</Filter>
@@ -683,9 +674,6 @@
     </ClCompile>
     <ClCompile Include="4 팀 나누기 13866.cpp">
       <Filter>소스 파일\2024_5</Filter>
-    </ClCompile>
-    <ClCompile Include="대지 9063.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
     </ClCompile>
     <ClCompile Include="5 비밀번호 찾기 17219.cpp">
       <Filter>소스 파일\2024_5</Filter>
@@ -795,14 +783,11 @@
     <ClCompile Include="10 보석 도둑 1202.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="단어 수학 1339.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="11 No Brainer 4562.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
     <ClCompile Include="줄번호 4470.cpp">
-      <Filter>Extra</Filter>
+      <Filter>소스 파일\Extra</Filter>
     </ClCompile>
     <ClCompile Include="12 Olympiad Pizza 15235.cpp">
       <Filter>소스 파일\2024_6</Filter>
@@ -847,7 +832,7 @@
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
     <ClCompile Include="GCD 합 9613.cpp">
-      <Filter>Extra</Filter>
+      <Filter>소스 파일\Extra</Filter>
     </ClCompile>
     <ClCompile Include="26 카드1 2161.cpp">
       <Filter>소스 파일\2024_6</Filter>
@@ -855,10 +840,31 @@
     <ClCompile Include="27 대표값2 2587.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="28 D-Day 1308.cpp">
+    <ClCompile Include="28 적어도 대부분의 배수 1145.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="28 적어도 대부분의 배수 1145.cpp">
+    <ClCompile Include="queuestack 24511.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 수학 1339.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="대지 9063.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="비밀번호 만들기.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="종이자르기.ing 2628.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 부모 찾기 11725.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="D-Day 1308.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="29 별 찍기 - 12 2522.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
   </ItemGroup>
