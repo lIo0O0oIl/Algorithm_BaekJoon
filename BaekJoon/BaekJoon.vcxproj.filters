@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\Extra">
       <UniqueIdentifier>{3b3c01ad-f14a-4c14-8fd3-3cbb7169accd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_7">
+      <UniqueIdentifier>{f06d8435-13ec-4a90-9750-2cfe8453aa59}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -869,6 +872,9 @@
     </ClCompile>
     <ClCompile Include="30 긴급 회의 20113.cpp">
       <Filter>소스 파일\2024_6</Filter>
+    </ClCompile>
+    <ClCompile Include="1 집 주소 1284.cpp">
+      <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
