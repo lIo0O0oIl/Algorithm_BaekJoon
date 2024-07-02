@@ -876,6 +876,9 @@
     <ClCompile Include="1 집 주소 1284.cpp">
       <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="2 강당 대관 31994.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
