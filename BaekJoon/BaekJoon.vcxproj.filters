@@ -909,6 +909,9 @@
     <ClCompile Include="12 이번학기 평점은 몇점 2755.cpp">
       <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="13 등장하지 않는 문자의 합 3059.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
