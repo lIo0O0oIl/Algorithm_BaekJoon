@@ -915,6 +915,9 @@
     <ClCompile Include="14 체육은 수학과목 입니다 32025.cpp">
       <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="15 첫 글자를 대문자로 4458.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
