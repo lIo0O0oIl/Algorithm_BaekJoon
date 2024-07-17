@@ -921,6 +921,9 @@
     <ClCompile Include="16 우유 축제 14720.cpp">
       <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="17 얼룩말을 찾아라 30454.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
