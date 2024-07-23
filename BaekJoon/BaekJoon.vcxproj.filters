@@ -942,6 +942,9 @@
     <ClCompile Include="23 아이그루스와 화장실 30642.cpp">
       <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="24 수학은 체육과목 입니다 15894.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
