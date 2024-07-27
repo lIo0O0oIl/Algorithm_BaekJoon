@@ -951,6 +951,12 @@
     <ClCompile Include="26 지폐 세기 30031.cpp">
       <Filter>소스 파일\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="27 분수찾기 1193.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
+    <ClCompile Include="27 정보보호학부 동아리 소개 28691.cpp">
+      <Filter>소스 파일\2024_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
