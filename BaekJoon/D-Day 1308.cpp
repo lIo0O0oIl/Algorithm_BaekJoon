@@ -1,97 +1,166 @@
 // https://www.acmicpc.net/problem/1308
 
+//#include <iostream>
+//using namespace std;
+//
+//int month[] = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+//int main()
+//{
+//	int startYear, startMonth, startDay;
+//	int endYear, endMonth, endDay;
+//	int d_Day = 0;
+//	cin >> startYear >> startMonth >> startDay;
+//	cin >> endYear >> endMonth >> endDay;
+//
+//	if (endYear - startYear > 1000)		// 년도만 봤을 때 1000을 넘기면
+//	{
+//		cout << "gg"; return 0;
+//	}
+//	else if (endYear - startYear == 1000)		// 1000년 째이면
+//	{
+//		if (endMonth > startMonth)		// 달이 더 크면
+//		{
+//			cout << "gg"; return 0;
+//		}
+//		else if (endMonth == startMonth)
+//		{
+//			if (endDay >= startDay)		// 일이 더 크면
+//			{
+//				cout << "gg"; return 0;
+//			}
+//		}
+//	}
+//
+//	cout << d_Day << endl;		// 이게 왜 -1임!!!
+//
+//	if (startMonth != endMonth)		// 달이 다르면
+//	{
+//		while (startMonth != endMonth)			// 같아질 때까지 돌려주기
+//		{
+//			startDay++;
+//			d_Day++;
+//			if (startDay > month[startMonth])
+//			{
+//				startMonth++;
+//				startDay = 1;
+//			}
+//			if (startMonth > 12)
+//			{
+//				startYear++;
+//				startMonth = 1;
+//			}
+//		}
+//	}
+//	if (startDay != endDay)
+//	{
+//		while (startDay != endDay)
+//		{
+//			startDay++;
+//			d_Day++;
+//		}
+//	}
+//	// 년도가 다르면
+//	if (startYear != endYear)
+//	{
+//		if (startYear % 4 == 0)		// 4로 나뉘어 떨어지면
+//		{
+//			if (startYear % 400 == 0)
+//			{
+//				d_Day++;
+//			}
+//			if (startYear % 100 != 0)
+//			{
+//				d_Day++;
+//			}
+//		}
+//		while (startYear != endYear)
+//		{
+//			startYear++;
+//			d_Day += 365;
+//			if (startYear % 4 == 0)		// 4로 나뉘어 떨어지면
+//			{
+//				if (startYear % 400 == 0)
+//				{
+//					d_Day++;
+//					continue;
+//				}
+//				if (startYear % 100 == 0) continue;
+//				d_Day++;
+//			}
+//		}
+//	}
+//	cout << "D-" << d_Day;
+//}
+
+
+
 #include <iostream>
-using namespace std;
+	using namespace std;
 
-int month[] = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-int main()
-{
-	int startYear, startMonth, startDay;
-	int endYear, endMonth, endDay;
-	int d_Day = 0;
-	cin >> startYear >> startMonth >> startDay;
-	cin >> endYear >> endMonth >> endDay;
-
-	if (endYear - startYear > 1000)		// 년도만 봤을 때 1000을 넘기면
+	int IsLeapYear(int y)
 	{
-		cout << "gg"; return 0;
-	}
-	else if (endYear - startYear == 1000)		// 1000년 째이면
-	{
-		if (endMonth > startMonth)		// 달이 더 크면
+		if (y % 400 == 0)
+			return 366;
+		else
 		{
-			cout << "gg"; return 0;
-		}
-		else if (endMonth == startMonth)
-		{
-			if (endDay >= startDay)		// 일이 더 크면
+			if (y % 100 == 0)
+				return 365;
+			else
 			{
-				cout << "gg"; return 0;
+				if (y % 4 == 0)
+					return 366;
+				else
+					return 365;
 			}
 		}
 	}
 
-	cout << d_Day << endl;		// 이게 왜 -1임!!!
+	int CounDay(int a[13], int y, int m, int d)
+	{
+		int b = d;
 
-	if (startMonth != endMonth)		// 달이 다르면
-	{
-		while (startMonth != endMonth)			// 같아질 때까지 돌려주기
-		{
-			startDay++;
-			d_Day++;
-			if (startDay > month[startMonth])
-			{
-				startMonth++;
-				startDay = 1;
-			}
-			if (startMonth > 12)
-			{
-				startYear++;
-				startMonth = 1;
-			}
-		}
+		for (int i = 1; i < m; i++)
+			b += a[i];
+		return b;
 	}
-	if (startDay != endDay)
-	{
-		while (startDay != endDay)
-		{
-			startDay++;
-			d_Day++;
-		}
-	}
-	// 년도가 다르면
-	if (startYear != endYear)
-	{
-		if (startYear % 4 == 0)		// 4로 나뉘어 떨어지면
-		{
-			if (startYear % 400 == 0)
-			{
-				d_Day++;
-			}
-			if (startYear % 100 != 0)
-			{
-				d_Day++;
-			}
-		}
-		while (startYear != endYear)
-		{
-			startYear++;
-			d_Day += 365;
-			if (startYear % 4 == 0)		// 4로 나뉘어 떨어지면
-			{
-				if (startYear % 400 == 0)
-				{
-					d_Day++;
-					continue;
-				}
-				if (startYear % 100 == 0) continue;
-				d_Day++;
-			}
-		}
-	}
-	cout << "D-" << d_Day;
-}
 
+	int day = 0;
+
+	int nomal[13] = { 365, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
+	int leap[13] = { 366, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
+	int main()
+	{
+		int y1, m1, d1, y2, m2, d2;
+
+		cin >> y1 >> m1 >> d1 >> y2 >> m2 >> d2;
+
+		if (IsLeapYear(y1) == 365)
+			day += (365 - CounDay(nomal, y1, m1, d1));
+		else
+			day += (366 - CounDay(leap, y1, m1, d1));
+
+		for (int i = y1 + 1; i < y2; i++)
+			day += IsLeapYear(i);
+
+		if (IsLeapYear(y2) == 365)
+			day += CounDay(nomal, y2, m2, d2);
+		else
+			day += CounDay(leap, y2, m2, d2);
+
+		if (y1 == y2)
+		{
+			if (IsLeapYear(y1) == 365)
+				cout << "D-" << CounDay(nomal, y2, m2, d2) - CounDay(nomal, y1, m1, d1);
+			else
+				cout << "D-" << CounDay(leap, y2, m2, d2) - CounDay(leap, y1, m1, d1);
+		}
+		else if (y2 - y1 > 1000 || (y2 - y1 == 1000 && (m1 < m2 || (m1 == m2 && d1 <= d2))))
+			cout << "gg";
+		else
+			cout << "D-" << day;
+	}
 
 /*
 
