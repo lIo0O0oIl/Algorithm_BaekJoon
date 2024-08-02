@@ -969,6 +969,9 @@
     <ClCompile Include="1 탁구 경기 27918.cpp">
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
+    <ClCompile Include="2 전자레인지 14470.cpp">
+      <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
