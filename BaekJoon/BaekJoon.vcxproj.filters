@@ -984,6 +984,9 @@
     <ClCompile Include="6 임스의 메이플컵 29790.cpp">
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
+    <ClCompile Include="7 브실혜성 29722.cpp">
+      <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
