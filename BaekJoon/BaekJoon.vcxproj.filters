@@ -837,9 +837,6 @@
     <ClCompile Include="25 덩치 7568.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="GCD 합 9613.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="26 카드1 2161.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
@@ -1006,6 +1003,9 @@
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
     <ClCompile Include="14 알고리즘 수업 - 알고리즘의 수행 시간 3 24264.cpp">
+      <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
+    <ClCompile Include="15 GCD 합 9613.cpp">
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
   </ItemGroup>
