@@ -1026,6 +1026,9 @@
     <ClCompile Include="20 별 찍기 - 15 10990.cpp">
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
+    <ClCompile Include="21 별 찍기 - 20 10995.cpp">
+      <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
