@@ -1032,6 +1032,9 @@
     <ClCompile Include="22 선물 28281.cpp">
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
+    <ClCompile Include="23 약수들의 합 9506.cpp">
+      <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
