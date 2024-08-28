@@ -1047,6 +1047,9 @@
     <ClCompile Include="27 안밖 밖안 계단 역계단 28290.cpp">
       <Filter>소스 파일\2024_8</Filter>
     </ClCompile>
+    <ClCompile Include="28 9진수 14491.cpp">
+      <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
