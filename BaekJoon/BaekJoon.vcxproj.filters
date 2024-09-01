@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\2024_8">
       <UniqueIdentifier>{8b6b472d-1ab8-4eb5-acf6-12cd95c5dc5a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_9">
+      <UniqueIdentifier>{25b86581-7ab6-425b-880f-e9845f8f1b58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1058,6 +1061,9 @@
     </ClCompile>
     <ClCompile Include="31 Previous Level 28453.cpp">
       <Filter>소스 파일\2024_8</Filter>
+    </ClCompile>
+    <ClCompile Include="1 Hunt The Rabbit 13777.cpp">
+      <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
