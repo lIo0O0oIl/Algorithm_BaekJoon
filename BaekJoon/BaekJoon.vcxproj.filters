@@ -1065,6 +1065,9 @@
     <ClCompile Include="1 Hunt The Rabbit 13777.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
+    <ClCompile Include="2 모비스 28074.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
