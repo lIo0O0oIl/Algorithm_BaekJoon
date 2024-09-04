@@ -1068,7 +1068,10 @@
     <ClCompile Include="2 모비스 28074.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
-    <ClCompile Include="23 자작나무가 없소 31496.cpp">
+    <ClCompile Include="3 자작나무가 없소 31496.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
+    <ClCompile Include="4 소수 구하기 1929.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
   </ItemGroup>
