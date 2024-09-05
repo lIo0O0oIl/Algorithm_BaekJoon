@@ -1074,6 +1074,9 @@
     <ClCompile Include="4 소수 구하기 1929.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
+    <ClCompile Include="5 돌 게임 9655.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
