@@ -1089,6 +1089,9 @@
     <ClCompile Include="9 방 배정 13300.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
+    <ClCompile Include="10 유학 금지 2789.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
