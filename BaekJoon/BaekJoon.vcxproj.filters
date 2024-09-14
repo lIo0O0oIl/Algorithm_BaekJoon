@@ -1101,6 +1101,12 @@
     <ClCompile Include="13 과 조사하기 28289.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
+    <ClCompile Include="15 상근이의 여행 9372.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
+    <ClCompile Include="14 뉴턴의 사과 13118.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
