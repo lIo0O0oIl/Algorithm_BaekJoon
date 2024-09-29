@@ -1143,6 +1143,9 @@
     <ClCompile Include="27 슈퍼 마리오 2851.cpp">
       <Filter>소스 파일\2024_9</Filter>
     </ClCompile>
+    <ClCompile Include="29 양파 실험 32369.cpp">
+      <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
