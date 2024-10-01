@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\2024_9">
       <UniqueIdentifier>{25b86581-7ab6-425b-880f-e9845f8f1b58}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_10">
+      <UniqueIdentifier>{5a9204c8-56eb-417f-8941-2911818bb7af}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1148,6 +1151,9 @@
     </ClCompile>
     <ClCompile Include="30 네 수 10824.cpp">
       <Filter>소스 파일\2024_9</Filter>
+    </ClCompile>
+    <ClCompile Include="1 학식 사주기 31821.cpp">
+      <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
