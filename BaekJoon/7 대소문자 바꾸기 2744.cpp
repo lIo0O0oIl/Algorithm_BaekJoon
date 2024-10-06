@@ -11,11 +11,11 @@ int main()
 	{
 		if (a[i] > 90)		// 90보다 크면 소문자니까 대문자로 바꿔서 출력
 		{
-			cout << a[i] - 32;
+			cout << (char)(a[i] - 32);
 		}
 		else
 		{
-			cout << a[i] + 32;
+			cout << (char)(a[i] + 32);
 		}
 	}
 }
