@@ -1176,6 +1176,9 @@
     <ClCompile Include="7 Basketball Score 32306.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
+    <ClCompile Include="8 J박스 5354.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
