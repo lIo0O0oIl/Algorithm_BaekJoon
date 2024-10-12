@@ -15,5 +15,4 @@ int main() {
         cout << "GLOBAL" << endl;
     else
         cout << "PONIX" << endl;
-
 }

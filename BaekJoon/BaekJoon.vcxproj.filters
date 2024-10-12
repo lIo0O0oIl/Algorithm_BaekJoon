@@ -1182,9 +1182,6 @@
     <ClCompile Include="9 크냐 4101.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
-    <ClCompile Include="글로벌 포닉스 31775.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="10 엘리스 트랙 매칭.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
@@ -1201,6 +1198,9 @@
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
     <ClCompile Include="11 HI-ARC= 28444.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="12 글로벌 포닉스 31775.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
   </ItemGroup>
