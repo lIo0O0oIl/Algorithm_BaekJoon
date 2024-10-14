@@ -798,9 +798,6 @@
     <ClCompile Include="11 No Brainer 4562.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="줄번호 4470.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="12 Olympiad Pizza 15235.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
@@ -1204,6 +1201,9 @@
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
     <ClCompile Include="13 바코드 닉네임 32288.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="14 줄번호 4470.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
   </ItemGroup>
