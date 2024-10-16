@@ -1209,6 +1209,12 @@
     <ClCompile Include="15 Identifying tea 11549.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
+    <ClCompile Include="17 별 찍기 - 23 13015.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="16 개표 30868.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
