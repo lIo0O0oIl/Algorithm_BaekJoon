@@ -1218,6 +1218,9 @@
     <ClCompile Include="18 거울, 오 거울 4740.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
+    <ClCompile Include="19 Call for Problems.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
