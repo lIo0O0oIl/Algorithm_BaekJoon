@@ -1224,6 +1224,12 @@
     <ClCompile Include="20 선택 가능성이 가장 높은 자료형 32278.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
+    <ClCompile Include="21 이상한 기호 15964.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="21 Java Warriors 30328.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">

@@ -19,4 +19,4 @@ int main()
 	{
 		cout << "long long";
 	}
-}
+}4
