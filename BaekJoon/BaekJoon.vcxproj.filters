@@ -61,6 +61,9 @@
     <Filter Include="소스 파일\2024_10">
       <UniqueIdentifier>{5a9204c8-56eb-417f-8941-2911818bb7af}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Wrong">
+      <UniqueIdentifier>{5af143b2-27a1-48cc-980b-457dfa4b3f25}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1228,6 +1231,15 @@
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
     <ClCompile Include="21 Java Warriors 30328.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="22 한별 찍기 24900.cpp">
+      <Filter>소스 파일\Wrong</Filter>
+    </ClCompile>
+    <ClCompile Include="22 UCPC에서 가장 쉬운 문제 번호는 25311.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="22 기찍 N 2742.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
   </ItemGroup>
