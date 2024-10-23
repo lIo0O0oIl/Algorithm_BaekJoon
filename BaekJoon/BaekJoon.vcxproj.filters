@@ -1242,6 +1242,15 @@
     <ClCompile Include="22 기찍 N 2742.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
+    <ClCompile Include="23 桁 (Digit) 31615.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="23 Adding Trouble 31654.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="23 A + B - C 31403.cpp">
+      <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
