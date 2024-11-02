@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\Wrong">
       <UniqueIdentifier>{5af143b2-27a1-48cc-980b-457dfa4b3f25}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_11">
+      <UniqueIdentifier>{51173adf-9276-48af-abfa-cc8cc328c304}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1271,6 +1274,9 @@
     </ClCompile>
     <ClCompile Include="29 Fill the Rowboats 5300.cpp">
       <Filter>소스 파일\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="2 상근날드 5543.cpp">
+      <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
