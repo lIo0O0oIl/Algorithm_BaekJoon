@@ -1287,6 +1287,9 @@
     <ClCompile Include="5 달달함이 넘쳐흘러 17256.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
+    <ClCompile Include="6 알파벳 개수 10808.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
