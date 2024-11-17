@@ -1305,10 +1305,22 @@
     <ClCompile Include="13 타일 채우기 4 15700.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
+    <ClCompile Include="17 果物 %28Fruit%29 31606.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="16 Christmas Tree Adapter 32314.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="15 火曜日 (Tuesday) 31611.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
+    </None>
+    <None Include="14 당구 좀 치자 제발 32642.cpp">
+      <Filter>소스 파일\2024_11</Filter>
     </None>
   </ItemGroup>
 </Project>
