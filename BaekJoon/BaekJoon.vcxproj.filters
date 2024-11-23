@@ -1314,9 +1314,6 @@
     <ClCompile Include="15 火曜日 (Tuesday) 31611.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
-    <ClCompile Include="18 SUAPC 2024 Winter 32154.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="19 인간은 무엇인가 32651.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
@@ -1324,6 +1321,15 @@
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
     <ClCompile Include="21 이 대회는 이제 제 겁니다 31922.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="18 SUAPC 2024 Winter 32154.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="22 Loteria Falha 30664.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="23 홀짝홀짝 31867.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
   </ItemGroup>
