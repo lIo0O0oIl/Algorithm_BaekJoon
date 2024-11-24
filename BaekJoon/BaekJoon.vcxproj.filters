@@ -1332,6 +1332,12 @@
     <ClCompile Include="23 홀짝홀짝 31867.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
+    <ClCompile Include="24 An Easy-Peasy Problem 30214.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="25 2023은 무엇이 특별할까 31090.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
