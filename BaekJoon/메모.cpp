@@ -1,9 +1,14 @@
 /*
 
-	ios_base::sync_with_stdio(false);
-	cin.tie(nullptr), cout.tie(nullptr);
+ios_base::sync_with_stdio(false);
+cin.tie(nullptr), cout.tie(nullptr);
 
 
+When in doubt, start with the type.
+Silver and above, it's better to use a larger material type...
+float -> double
+int -> long long long
+ok????
 
 https://www.acmicpc.net/problem/11179
 
