@@ -10,6 +10,10 @@ float -> double
 int -> long long long
 ok????
 
+Read the problem!!
+
+You can print it as it comes in, but you can also save it and print it later.
+
 https://www.acmicpc.net/problem/11179
 
 https://www.acmicpc.net/problem/2089
