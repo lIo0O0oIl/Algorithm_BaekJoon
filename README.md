@@ -15,12 +15,12 @@
 
 - 필터를 사용하여 연도와 달로 분리합니다.
 
-- 필터 중 Incomprehensible은 푸는 중인 문제들, 혹은 풀었으나 이해가 가지 않는 문제들이 들어가 있습니다.
+- 필터 중 Incomprehensible은 푸는 중인 문제들, 혹은 풀었으나 이해가 좀 더 필요한 문제들이 담겨있습니다.
 
 - 문제를 풀고 저장할 땐 푼 날짜(며칠인지), 이름, 문제 번호로 저장합니다. (예 : 17 후위 표기식2 1935)
 <br><br>
 
 ## 링크
-- [BaekJoon](https://www.acmicpc.net)
+- [BaekJoon](https://www.acmicpc.net) (알고리즘 풀이 사이트)
 - [My_BaekJoon_Profile](https://www.acmicpc.net/user/tjddms0923)
 - [Solved.ac_Profile](https://solved.ac/profile/tjddms0923)
