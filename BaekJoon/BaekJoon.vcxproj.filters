@@ -1344,7 +1344,7 @@
     <ClCompile Include="26 스택 수열 1874.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
-    <ClCompile Include="27 계단 오르기 2579.cpp">
+    <ClCompile Include="28 계단 오르기 2579.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
     <ClCompile Include="Arno%27s Sleep Schedule 29863.cpp">
