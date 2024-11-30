@@ -1356,6 +1356,15 @@
     <ClCompile Include="28 포도주 시식 2156.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
+    <ClCompile Include="Metronome 27389.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="29 가희와 클럽 오디션 1 30794.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="30 구간 합 구하기 4 11659.cpp">
+      <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
