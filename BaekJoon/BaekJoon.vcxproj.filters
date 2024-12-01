@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\2024_11">
       <UniqueIdentifier>{51173adf-9276-48af-abfa-cc8cc328c304}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2024_12">
+      <UniqueIdentifier>{2d241008-7e5f-47ab-8a55-0bc587951a47}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1364,6 +1367,9 @@
     </ClCompile>
     <ClCompile Include="30 구간 합 구하기 4 11659.cpp">
       <Filter>소스 파일\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="1 해밍 거리 3449.cpp">
+      <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
