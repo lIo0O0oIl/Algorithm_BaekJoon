@@ -18,6 +18,12 @@
 - 필터 중 Incomprehensible은 푸는 중인 문제들, 혹은 풀었으나 이해가 좀 더 필요한 문제들이 담겨있습니다.
 
 - 문제를 풀고 저장할 땐 푼 날짜(며칠인지), 이름, 문제 번호로 저장합니다. (예 : 17 후위 표기식2 1935)
+
+- 규칙에 따라 비쥬얼 스튜디오에서 아래 사진과 같이 정리되어있습니다.
+
+<img src="https://github.com/user-attachments/assets/97574dd7-1525-44d1-b52c-ef842a4d58b4" width="210" height="400"/>
+<img src="https://github.com/user-attachments/assets/fb38f7ae-500f-479d-99a6-0efcc725c6d8" width="182" height="400"/>
+
 <br><br>
 
 ## 링크
