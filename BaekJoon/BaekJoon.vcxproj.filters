@@ -1359,9 +1359,6 @@
     <ClCompile Include="28 포도주 시식 2156.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
-    <ClCompile Include="Metronome 27389.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="29 가희와 클럽 오디션 1 30794.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
@@ -1369,6 +1366,15 @@
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
     <ClCompile Include="1 해밍 거리 3449.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="3 푸앙이와 종윤이 25591.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="Metronome 27389.cpp">
+      <Filter>소스 파일\Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="4 알고리즘 수업 - 피보나치 수 1 24416.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
   </ItemGroup>
