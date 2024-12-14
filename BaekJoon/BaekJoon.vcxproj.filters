@@ -1407,6 +1407,18 @@
     <ClCompile Include="11 Pizza Deal 16693.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
+    <ClCompile Include="12 ゾロ目Same Numbers 27324.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="13 브실이와 친구가 되고 싶어 🤸‍ 29736.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="13 준살 프로그래밍 대회 7513.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="14 三方比較Three-Way Comparison 27328.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
