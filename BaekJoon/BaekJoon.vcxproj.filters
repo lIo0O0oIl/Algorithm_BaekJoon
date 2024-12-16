@@ -858,9 +858,6 @@
     <ClCompile Include="28 적어도 대부분의 배수 1145.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="queuestack 24511.cpp">
-      <Filter>소스 파일\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="단어 수학 1339.cpp">
       <Filter>소스 파일\Solving</Filter>
     </ClCompile>
@@ -1239,7 +1236,7 @@
     <ClCompile Include="21 Java Warriors 30328.cpp">
       <Filter>소스 파일\2024_10</Filter>
     </ClCompile>
-    <ClCompile Include="22 한별 찍기 24900.cpp">
+    <ClCompile Include="한별 찍기 24900.cpp">
       <Filter>소스 파일\Wrong</Filter>
     </ClCompile>
     <ClCompile Include="22 UCPC에서 가장 쉬운 문제 번호는 25311.cpp">
@@ -1420,6 +1417,12 @@
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
     <ClCompile Include="15 준영이의 등급 30008.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="queuestack 24511.cpp">
+      <Filter>소스 파일\Wrong</Filter>
+    </ClCompile>
+    <ClCompile Include="16 10! 28352.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
   </ItemGroup>
