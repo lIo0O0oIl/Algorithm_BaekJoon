@@ -1344,9 +1344,6 @@
     <ClCompile Include="28 계단 오르기 2579.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
-    <ClCompile Include="Arno%27s Sleep Schedule 29863.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="27 체스 초보 브실이 29725.cpp">
       <Filter>소스 파일\2024_11</Filter>
     </ClCompile>
@@ -1439,6 +1436,12 @@
     </ClCompile>
     <ClCompile Include="時間 Hour 27327.cpp">
       <Filter>소스 파일\Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="20 Arno%27s Sleep Schedule 29863.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="21 연결 요소의 개수 11724.cpp">
+      <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
