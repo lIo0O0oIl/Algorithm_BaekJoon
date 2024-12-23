@@ -1,4 +1,4 @@
-https://www.acmicpc.net/problem/24736
+// https://www.acmicpc.net/problem/24736
 
 #include <iostream>
 using namespace std;

@@ -1443,6 +1443,15 @@
     <ClCompile Include="21 연결 요소의 개수 11724.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
+    <ClCompile Include="22 Football Scoring 24736.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="23 가장 쉬운 문제를 찾는 문제 22966.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="23 색종이 만들기 2630.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">

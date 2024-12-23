@@ -15,9 +15,6 @@ int main()
 		cin >> name >> level;
 		map[level] = name;
 	}
-	for (auto& name : map)
-	{
-		cout << name.second;
-		break;
-	}
+	auto iter = map.begin();
+	cout << iter->second;
 }
