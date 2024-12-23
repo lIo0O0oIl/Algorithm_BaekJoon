@@ -478,6 +478,7 @@
     <ClCompile Include="17 2 桁の整数Two-digit Integer 27331.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="23 가장 쉬운 문제를 찾는 문제 22966.cpp" />
     <ClCompile Include="23 색종이 만들기 2630.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
