@@ -16,5 +16,6 @@ int main()
 		map[level] = name;
 	}
 	auto iter = map.begin();
-	cout << iter->second;
+	//if (iter != map.end()) {}
+	cout << iter->second;		// 무조껀 있음. 나중에는 사용 주의해야겠지만...
 }
