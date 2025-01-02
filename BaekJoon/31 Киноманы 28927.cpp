@@ -20,5 +20,3 @@ int main()
     else
         cout << "Draw";
 }
-
-// 12월 31일 풂.

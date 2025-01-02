@@ -70,6 +70,12 @@
     <Filter Include="소스 파일\2024_12">
       <UniqueIdentifier>{2d241008-7e5f-47ab-8a55-0bc587951a47}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025_1">
+      <UniqueIdentifier>{97ac6669-d08e-41f9-bf96-33b7a3b34f80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\WhatIsDay">
+      <UniqueIdentifier>{ce901b19-bc1b-4342-80c6-5895afe8cebb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1368,9 +1374,6 @@
     <ClCompile Include="4 알고리즘 수업 - 피보나치 수 1 24416.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
-    <ClCompile Include="Киноманы 28927.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="5 2×n 타일링 11726.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
@@ -1434,9 +1437,6 @@
     <ClCompile Include="19 한글 11282.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
-    <ClCompile Include="時間 Hour 27327.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="20 Arno%27s Sleep Schedule 29863.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
@@ -1466,6 +1466,51 @@
     </ClCompile>
     <ClCompile Include="28 수학은 체육과목 입니다 2 17362.cpp">
       <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="1 아파트 32979.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
+    <ClCompile Include="1 삼각형 29751.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="2 Счастье Мистера Бина 29163.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="8 알고리즘 수업 24263.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="9 녹색거탑 24723.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="28 Dedupe 5357.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="30 사랑은 고려대입니다 32384.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="31 Pyramids 5341.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="母音を数える (Counting Vowels).cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="바구니 뒤집기 10811.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="소스1.cpp">
+      <Filter>소스 파일\WhatIsDay</Filter>
+    </ClCompile>
+    <ClCompile Include="29 드론 조작 32932.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="30 모범생 포닉스 28097.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="31 Киноманы 28927.cpp">
+      <Filter>소스 파일\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="2 時間 Hour 27327.cpp">
+      <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

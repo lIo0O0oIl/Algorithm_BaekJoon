@@ -17,7 +17,7 @@ int main()
     
     for (int i = 0; i < m; ++i)
     {
-        int k, temp;
+        int k, temp = 0;
         cin >> k;
         
         for (int j = 0; j < k; ++j)
@@ -32,5 +32,3 @@ int main()
         cout << temp << " ";
     }
 }
-
-// 1월 1일에 풂
