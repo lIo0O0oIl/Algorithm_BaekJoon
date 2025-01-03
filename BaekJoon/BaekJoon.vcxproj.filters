@@ -1368,9 +1368,6 @@
     <ClCompile Include="3 푸앙이와 종윤이 25591.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
-    <ClCompile Include="Metronome 27389.cpp">
-      <Filter>소스 파일\Extra</Filter>
-    </ClCompile>
     <ClCompile Include="4 알고리즘 수업 - 피보나치 수 1 24416.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
@@ -1510,6 +1507,9 @@
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
     <ClCompile Include="2 時間 Hour 27327.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
+    <ClCompile Include="3 Metronome 27389.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
   </ItemGroup>
