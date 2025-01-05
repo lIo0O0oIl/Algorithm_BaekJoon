@@ -1413,9 +1413,6 @@
     <ClCompile Include="15 준영이의 등급 30008.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
-    <ClCompile Include="queuestack 24511.cpp">
-      <Filter>소스 파일\Wrong</Filter>
-    </ClCompile>
     <ClCompile Include="16 10! 28352.cpp">
       <Filter>소스 파일\2024_12</Filter>
     </ClCompile>
@@ -1513,6 +1510,9 @@
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
     <ClCompile Include="4 Four Squares 17626.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
+    <ClCompile Include="5 queuestack 24511.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
   </ItemGroup>
