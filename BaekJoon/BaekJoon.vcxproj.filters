@@ -1518,6 +1518,12 @@
     <ClCompile Include="6 도미노 2921.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
+    <ClCompile Include="7 바구니 순서 바꾸기 10812.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
+    <ClCompile Include="8 최대 힙 11279.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
