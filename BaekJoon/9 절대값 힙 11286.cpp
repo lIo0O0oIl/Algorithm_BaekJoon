@@ -20,6 +20,8 @@ int main()
 
 	long long n, input;
 	priority_queue<long long, vector<long long>, cmp> q;
+	priority_queue<long long, cmp> q;
+
 	cin >> n;
 	for (int i = 0; i < n; i++)
 	{
