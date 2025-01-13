@@ -1533,6 +1533,12 @@
     <ClCompile Include="11 버그왕 3447.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
+    <ClCompile Include="12 돌림판 문자열 25705.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
+    <ClCompile Include="13 立方体 %28Cube%29 24082.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
