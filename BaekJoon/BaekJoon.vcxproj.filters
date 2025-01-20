@@ -1548,10 +1548,13 @@
     <ClCompile Include="17 謎紛芥索紀 %28Small%29 14730.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
-    <ClCompile Include="18 LCS 9251.cpp">
+    <ClCompile Include="19 DKSH 찾기 29766.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
-    <ClCompile Include="19 DKSH 찾기 29766.cpp">
+    <ClCompile Include="2025_1_18 LCS 9251.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="20 심준의 병역판정검사 25285.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
   </ItemGroup>
