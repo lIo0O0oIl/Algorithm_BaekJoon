@@ -1560,6 +1560,9 @@
     <ClCompile Include="21 등교 31962.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
+    <ClCompile Include="22 AI 선도대학 32951.cpp">
+      <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
