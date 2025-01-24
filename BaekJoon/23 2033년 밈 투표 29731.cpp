@@ -7,10 +7,10 @@ using namespace std;
 
 int main()
 {
-	set<string> set{"Never gonna give you up", "Never gonna let you down",
+	set<string> set{ "Never gonna give you up", "Never gonna let you down",
 		"Never gonna run around and desert you", "Never gonna make you cry",
 	"Never gonna say goodbye", "Never gonna tell a lie and hurt you",
-	"Never gonna stop"};
+	"Never gonna stop" };
 	int n;
 	bool is_ok = true;
 	string input;
@@ -25,5 +25,6 @@ int main()
 			is_ok = false;
 		}
 	}
+
 	cout << (is_ok == false ? "Yes" : "No");
 }
