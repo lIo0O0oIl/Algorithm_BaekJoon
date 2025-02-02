@@ -76,6 +76,9 @@
     <Filter Include="소스 파일\WhatIsDay">
       <UniqueIdentifier>{ce901b19-bc1b-4342-80c6-5895afe8cebb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025_2">
+      <UniqueIdentifier>{90fd302f-c3e0-4eee-9791-c4153fca8266}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1595,6 +1598,12 @@
     </ClCompile>
     <ClCompile Include="31 동일한 단어 그룹화하기 16499.cpp">
       <Filter>소스 파일\2025_1</Filter>
+    </ClCompile>
+    <ClCompile Include="2 Football Team 5358.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
+    <ClCompile Include="1 경로 찾기 11403.cpp">
+      <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,33 +1,65 @@
 // https://www.acmicpc.net/problem/11403
 
-#include<iostream>
-#include<vector>
-#include<cstring>
+#include <iostream>
+#include <vector>
+#include <queue>
 using namespace std;
-vector<int>v[100];
-int visit[100];
-void dfs(int x){
-    for(int i=0;i<v[x].size();i++){
-        if(!visit[v[x][i]]){
-            visit[v[x][i]]=1;
-            dfs(v[x][i]);
+
+int visited[101];
+vector<int> graph[101];
+int n, temp;
+
+void bfs(int start)
+{
+    queue<int> q;
+    for (int i = 0; i < n; i++)
+    {
+        if (graph[start][i] == 1)
+            q.push(i);
+    }
+
+    while (!q.empty())
+    {
+        int x = q.front();
+        q.pop();
+
+        visited[x] = 1;
+
+        for (int i = 0; i < n; i++)
+        {
+            int y = graph[x][i];
+            if (visited[i] == 0 && y == 1)
+            {
+                q.push(i);
+                visited[i] = 1;
+            }
         }
     }
 }
-int main(){
-    int n,a;
-    cin>>n;
-    for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-            cin>>a;
-            if(a)v[i].push_back(j);
+
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr); cout.tie(nullptr);
+    cin >> n;
+
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            cin >> temp;
+            graph[i].push_back(temp);
         }
     }
-    for(int i=0;i<n;i++){
-        memset(visit,0,sizeof(visit));
-        dfs(i);
-        for(int j=0;j<n;j++)
-            cout<<visit[j]<<" ";
-        cout<<"\n";
+
+    for (int i = 0; i < n; i++)
+    {
+        bfs(i);
+        for (int j = 0; j < n; j++)
+        {
+            cout << visited[j] << ' ';
+            visited[j] = 0;
+        }
+        cout << '\n';
     }
 }
