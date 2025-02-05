@@ -1608,6 +1608,9 @@
     <ClCompile Include="4 한별 찍기 24900.cpp">
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
+    <ClCompile Include="5 케빈 베이컨의 6단계 법칙 1389.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
