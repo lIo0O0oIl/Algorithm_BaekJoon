@@ -867,9 +867,6 @@
     <ClCompile Include="28 적어도 대부분의 배수 1145.cpp">
       <Filter>소스 파일\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="단어 수학 1339.cpp">
-      <Filter>소스 파일\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="대지 9063.cpp">
       <Filter>소스 파일\Solving</Filter>
     </ClCompile>
@@ -1609,6 +1606,12 @@
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
     <ClCompile Include="5 케빈 베이컨의 6단계 법칙 1389.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 수학 1339.cpp">
+      <Filter>소스 파일\Wrong</Filter>
+    </ClCompile>
+    <ClCompile Include="6 집합 11723.cpp">
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
   </ItemGroup>
