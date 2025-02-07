@@ -10,6 +10,9 @@ float -> double
 int -> long long long
 ok????
 
+And you should also keep in mind that there are problems
+that can be solved by creating weights!
+
 Read the problem!!
 
 You can print it as it comes in, but you can also save it and print it later.
