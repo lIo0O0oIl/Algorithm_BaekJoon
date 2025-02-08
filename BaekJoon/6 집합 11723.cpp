@@ -16,12 +16,12 @@ int main()
 		cin >> input;
 		if (input == "all")
 		{
-			n = ~0;		// or 연산
+			n = ~0;		// 반전 연산
 			continue;
 		}
 		else if (input == "empty")
 		{
-			n &= 0;
+			n &= 0;		// and 연산
 			continue;
 		}
 		cin >> num;

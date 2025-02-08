@@ -83,7 +83,8 @@ using namespace std;
 
 int graph[26];		// 알파벳 개수
 
-bool cmp(int& a, int& b) {		// 내림차순
+bool cmp(int& a, int& b) // 내림차순
+{		
 	return a > b;
 }
 
@@ -133,7 +134,6 @@ f = 3
 99437
 
 A = 9, B = 4, C = 8, D = 6, E = 5, F = 3, G = 7
-
 
 A 10000
 C 1010
