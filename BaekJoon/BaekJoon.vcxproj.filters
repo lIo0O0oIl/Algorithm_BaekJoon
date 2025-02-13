@@ -1584,9 +1584,6 @@
     <ClCompile Include="29 가희와 4시간의 벽 1 32775.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
-    <ClCompile Include="숨바꼭질 5 17071.cpp">
-      <Filter>소스 파일\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="30 당신은 운명을 믿나요 27930.cpp">
       <Filter>소스 파일\2025_1</Filter>
     </ClCompile>
@@ -1624,6 +1621,12 @@
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
     <ClCompile Include="11 줄 세기 4806.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
+    <ClCompile Include="12 골뱅이 찍기 - ㅌ 238111.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
+    <ClCompile Include="13 셀프 넘버 4673.cpp">
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
   </ItemGroup>
