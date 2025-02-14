@@ -32,4 +32,9 @@ Solve later
 
 
 
+using ll = long long;	// new! good!
+typedef long long ll;	// original
+#define ll long long	// replace code
+
+
 */
