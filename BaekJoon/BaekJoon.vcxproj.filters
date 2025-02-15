@@ -1632,6 +1632,9 @@
     <ClCompile Include="14 배열 합치기 11728.cpp">
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
+    <ClCompile Include="15 알고리즘 수업 - 알고리즘의 수행 시간 4  24265.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
