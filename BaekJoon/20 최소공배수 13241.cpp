@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
-	int n;
 	long long a, b, oa, ob;
 	cin >> a >> b;
 	oa = a;
