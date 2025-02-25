@@ -1662,6 +1662,9 @@
     <ClCompile Include="24 일반 화학 실험 4766.cpp">
       <Filter>소스 파일\2025_2</Filter>
     </ClCompile>
+    <ClCompile Include="25 전투 드로이드 가격 5361.cpp">
+      <Filter>소스 파일\2025_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10. 단지번호붙이기 2667.cpp">
