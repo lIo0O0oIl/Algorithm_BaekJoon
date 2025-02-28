@@ -13,17 +13,8 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Incomprehensible">
-      <UniqueIdentifier>{a99e35f5-8843-4c3e-ad12-a93371a8dd5f}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Solving">
       <UniqueIdentifier>{5568ac36-6727-4d37-a6ce-f059368b4d93}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Extra">
-      <UniqueIdentifier>{3b3c01ad-f14a-4c14-8fd3-3cbb7169accd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Wrong">
-      <UniqueIdentifier>{5af143b2-27a1-48cc-980b-457dfa4b3f25}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\WhatIsDay">
       <UniqueIdentifier>{ce901b19-bc1b-4342-80c6-5895afe8cebb}</UniqueIdentifier>
@@ -90,6 +81,9 @@
     </Filter>
     <Filter Include="소스 파일\2025\2025_3">
       <UniqueIdentifier>{f14892f4-b116-4d9a-9631-64f64e3d788f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Incomprehensible">
+      <UniqueIdentifier>{a99e35f5-8843-4c3e-ad12-a93371a8dd5f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -1497,9 +1491,6 @@
     <ClCompile Include="바구니 뒤집기 10811.cpp">
       <Filter>소스 파일\WhatIsDay</Filter>
     </ClCompile>
-    <ClCompile Include="소스1.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
     <ClCompile Include="29 드론 조작 32932.cpp">
       <Filter>소스 파일\2024\2024_12</Filter>
     </ClCompile>
@@ -1680,15 +1671,15 @@
     <ClCompile Include="27 서버 10409.cpp">
       <Filter>소스 파일\2025\2025_2</Filter>
     </ClCompile>
-    <ClCompile Include="28 LCS 2 9252.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1 막대기 1094.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
+    <ClCompile Include="28 LCS 2 9252.cpp">
+      <Filter>소스 파일\2025\2025_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="10. 단지번호붙이기 2667.cpp">
+    <None Include="10 단지번호붙이기 2667.cpp">
       <Filter>소스 파일\Incomprehensible</Filter>
     </None>
     <None Include="14 당구 좀 치자 제발 32642.cpp">
