@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <vector>
+#include <stack>
 using namespace std;
 
 int main()
@@ -25,13 +26,23 @@ int main()
 
     cout << dp[n.size()][m.size()] << '\n';
 
-    int now = 1;
-    for (int i = 1; i <= n.size(); ++i)
+    int i = n.size(), j = m.size();
+    stack<char> answer;
+    while (dp[i][j] != 0)
     {
-        for (int j = 1; j <= m.size(); ++j)
+        if (dp[i][j] == dp[i][j - 1]) j--;
+        else if (dp[i][j] == dp[i - 1][j]) i--;
+        else
         {
-            
+            answer.push(n[i - 1]);
+            i--;
+            j--;
         }
+    }
+    while (!answer.empty())
+    {
+        cout << answer.top();
+        answer.pop();
     }
 }
 

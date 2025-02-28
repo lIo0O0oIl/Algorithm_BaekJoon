@@ -640,7 +640,7 @@
     <ClCompile Include="9 팩토리얼 10872.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="LCS 2 9252.cpp">
+    <ClCompile Include="28 LCS 2 9252.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="28 Dedupe 5357.cpp">
