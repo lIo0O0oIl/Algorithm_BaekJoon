@@ -699,9 +699,6 @@
     <ClCompile Include="1 최대공약수와 최소공배수 2609.cpp">
       <Filter>소스 파일\2024\2024_5</Filter>
     </ClCompile>
-    <ClCompile Include="1 헌내기는 친구가 필요해 21736.cpp">
-      <Filter>소스 파일\Incomprehensible</Filter>
-    </ClCompile>
     <ClCompile Include="2 이항 계수 1 11050.cpp">
       <Filter>소스 파일\2024\2024_5</Filter>
     </ClCompile>
@@ -1684,6 +1681,12 @@
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
     <ClCompile Include="4 숫자놀이 1755.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토 7576.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="5 욱제는 효도쟁이야!! 14487.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
   </ItemGroup>
