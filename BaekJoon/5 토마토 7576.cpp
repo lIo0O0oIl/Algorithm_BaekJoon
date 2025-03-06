@@ -12,7 +12,7 @@ queue<pair<int, int>> q;
 int sx[] = { -1, 1, 0, 0 };
 int sy[] = { 0, 0, -1, 1 };
 
-void bfs(int x, int y)
+void bfs()
 {
 	while (!q.empty())
 	{
@@ -26,13 +26,11 @@ void bfs(int x, int y)
 			int ny = y + sy[i];
 
 			if (nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
-			if (box[ny][nx].first == -1) continue;
-
+			if (box[ny][nx].first == -1 || box[ny][nx].first == 1) continue;
 
 			if (box[ny][nx].second > box[y][x].second + 1)
 			{
 				box[ny][nx].second = box[y][x].second + 1;
-				box[ny][nx].first = 1;
 				q.push({ ny, nx });
 			}
 		}
@@ -44,7 +42,7 @@ int main()
 	ios_base::sync_with_stdio(false);
 	cin.tie(nullptr), cout.tie(nullptr);
 
-	cin >> n >> m;
+	cin >> m >> n;
 	box.resize(n, vector<pair<int, int>>(m));
 
 	for (int i = 0; i < n; i++)
@@ -52,7 +50,7 @@ int main()
 		for (int j = 0; j < m; j++)
 		{
 			cin >> box[i][j].first;
-			box[i][j].second = 1001;
+			box[i][j].second = 1000001;
 		}
 	}
 
@@ -60,26 +58,28 @@ int main()
 	{
 		for (int j = 0; j < m; j++)
 		{
-			if (box[i][j].first == 1)
+			if (box[i][j].first == 1 && box[i][j].second == 1000001)
 			{
 				box[i][j].second = 0;
 				q.push({ i, j });
-				bfs(i, j);
 			}
 		}
 	}
+
+	bfs();
 
 	int bigDay = 0;
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < m; j++)
 		{
-			if (box[i][j].first == 0)
+			if (box[i][j].second == 1000001 && box[i][j].first == 0)
 			{
 				cout << -1;
 				return 0;
 			}
-			if (box[i][j].second > bigDay)
+
+			if (box[i][j].second > bigDay && box[i][j].second != 1000001)
 			{
 				bigDay = box[i][j].second;
 			}
