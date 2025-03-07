@@ -1686,7 +1686,10 @@
     <ClCompile Include="5 욱제는 효도쟁이야!! 14487.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
-    <ClCompile Include="5 토마토 7576.cpp">
+    <ClCompile Include="6 토마토 7576.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="7 토마토 7569.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
   </ItemGroup>
