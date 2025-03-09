@@ -16,9 +16,6 @@
     <Filter Include="소스 파일\Solving">
       <UniqueIdentifier>{5568ac36-6727-4d37-a6ce-f059368b4d93}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\WhatIsDay">
-      <UniqueIdentifier>{ce901b19-bc1b-4342-80c6-5895afe8cebb}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\2023">
       <UniqueIdentifier>{56c0f0d5-cabd-4cec-b928-927c27ae377d}</UniqueIdentifier>
     </Filter>
@@ -870,19 +867,10 @@
     <ClCompile Include="28 적어도 대부분의 배수 1145.cpp">
       <Filter>소스 파일\2024\2024_6</Filter>
     </ClCompile>
-    <ClCompile Include="대지 9063.cpp">
-      <Filter>소스 파일\Solving</Filter>
-    </ClCompile>
     <ClCompile Include="비밀번호 만들기.cpp">
       <Filter>소스 파일\Solving</Filter>
     </ClCompile>
     <ClCompile Include="종이자르기.ing 2628.cpp">
-      <Filter>소스 파일\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="트리의 부모 찾기 11725.cpp">
-      <Filter>소스 파일\Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="D-Day 1308.cpp">
       <Filter>소스 파일\Solving</Filter>
     </ClCompile>
     <ClCompile Include="29 별 찍기 - 12 2522.cpp">
@@ -1461,33 +1449,6 @@
     <ClCompile Include="1 아파트 32979.cpp">
       <Filter>소스 파일\2025\2025_1</Filter>
     </ClCompile>
-    <ClCompile Include="1 삼각형 29751.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="2 Счастье Мистера Бина 29163.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="8 알고리즘 수업 24263.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="9 녹색거탑 24723.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="28 Dedupe 5357.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="30 사랑은 고려대입니다 32384.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="31 Pyramids 5341.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="母音を数える (Counting Vowels).cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
-    <ClCompile Include="바구니 뒤집기 10811.cpp">
-      <Filter>소스 파일\WhatIsDay</Filter>
-    </ClCompile>
     <ClCompile Include="29 드론 조작 32932.cpp">
       <Filter>소스 파일\2024\2024_12</Filter>
     </ClCompile>
@@ -1700,6 +1661,42 @@
     </ClCompile>
     <ClCompile Include="9 더하기 9085.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="이중 우선순위 큐 7662.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="D-Day 1308.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="대지 9063.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 부모 찾기 11725.cpp">
+      <Filter>소스 파일\Incomprehensible</Filter>
+    </ClCompile>
+    <ClCompile Include="2 Счастье Мистера Бина 29163.cpp">
+      <Filter>소스 파일\2024\2024_12</Filter>
+    </ClCompile>
+    <ClCompile Include="9 녹색거탑 24723.cpp">
+      <Filter>소스 파일\2024\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="8 알고리즘 수업 - 알고리즘의 수행 시간 2 24263.cpp">
+      <Filter>소스 파일\2024\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="1 삼각형 29751.cpp">
+      <Filter>소스 파일\2024\2024_11</Filter>
+    </ClCompile>
+    <ClCompile Include="30 사랑은 고려대입니다 32384.cpp">
+      <Filter>소스 파일\2024\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="31 Pyramids 5341.cpp">
+      <Filter>소스 파일\2024\2024_10</Filter>
+    </ClCompile>
+    <ClCompile Include="28 Dedupe 5357.cpp">
+      <Filter>소스 파일\2024\2024_9</Filter>
+    </ClCompile>
+    <ClCompile Include="30 母音を数える %28Counting Vowels%29 18409.cpp">
+      <Filter>소스 파일\2024\2024_7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
