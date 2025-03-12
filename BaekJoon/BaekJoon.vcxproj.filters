@@ -1698,6 +1698,15 @@
     <ClCompile Include="30 母音を数える %28Counting Vowels%29 18409.cpp">
       <Filter>소스 파일\2024\2024_7</Filter>
     </ClCompile>
+    <ClCompile Include="10 주사위 게임 10103.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="11 헬멧과 조끼 15781.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="12 노트북 세 대를 가지고 왔다 33515.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
