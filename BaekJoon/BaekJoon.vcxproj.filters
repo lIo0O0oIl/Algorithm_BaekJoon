@@ -1707,6 +1707,12 @@
     <ClCompile Include="12 노트북 세 대를 가지고 왔다 33515.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
+    <ClCompile Include="13 아 맞다 마늘 32978.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="14 IOIOI 5525.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
