@@ -1713,6 +1713,12 @@
     <ClCompile Include="14 IOIOI 5525.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
+    <ClCompile Include="15 스타후르츠 17496.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="16 전체 계산 횟수 17174.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
