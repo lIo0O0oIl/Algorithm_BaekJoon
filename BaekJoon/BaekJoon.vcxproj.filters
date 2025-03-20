@@ -1722,10 +1722,13 @@
     <ClCompile Include="17 영단어 암기는 괴로워 20920.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
-    <ClCompile Include="18 학생 인기도 측정 25325.cpp">
+    <ClCompile Include="20 학생 인기도 측정 25325.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
     <ClCompile Include="19 할리갈리 27160.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="18 학술대회 참가신청 32969.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
   </ItemGroup>
