@@ -1737,6 +1737,9 @@
     <ClCompile Include="21 골뱅이 찍기 - 뒤집힌 ㄱ 23802.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
+    <ClCompile Include="22 골뱅이 찍기 - ㄴ 23803.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
