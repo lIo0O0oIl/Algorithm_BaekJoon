@@ -1743,6 +1743,15 @@
     <ClCompile Include="23 골뱅이 찍기 - ㄷ 23804.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
     </ClCompile>
+    <ClCompile Include="24 적록색약 10026.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="25 골뱅이 찍기 - 돌아간 ㄹ 23805.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="26 골뱅이 찍기 - ㅁ 23806.cpp">
+      <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
