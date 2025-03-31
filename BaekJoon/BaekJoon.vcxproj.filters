@@ -82,6 +82,9 @@
     <Filter Include="소스 파일\Incomprehensible">
       <UniqueIdentifier>{a99e35f5-8843-4c3e-ad12-a93371a8dd5f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_4">
+      <UniqueIdentifier>{728abe15-69f2-47aa-98c5-25097cda0540}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1766,6 +1769,9 @@
     </ClCompile>
     <ClCompile Include="31 아이들은 사탕을 좋아해 9550.cpp">
       <Filter>소스 파일\2025\2025_3</Filter>
+    </ClCompile>
+    <ClCompile Include="1 얼마 9325.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
