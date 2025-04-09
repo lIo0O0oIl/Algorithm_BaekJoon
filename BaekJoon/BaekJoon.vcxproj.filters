@@ -1791,6 +1791,15 @@
     <ClCompile Include="6 Speed fines are not fine 6763.cpp">
       <Filter>소스 파일\2025\2025_4</Filter>
     </ClCompile>
+    <ClCompile Include="7 Micromasters 33178.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
+    <ClCompile Include="8 CAPS 15000.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
+    <ClCompile Include="9 SciComLove 21598.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
