@@ -1812,6 +1812,9 @@
     <ClCompile Include="13 다면체 10569.cpp">
       <Filter>소스 파일\2025\2025_4</Filter>
     </ClCompile>
+    <ClCompile Include="14 GIST 찍기 31907.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
