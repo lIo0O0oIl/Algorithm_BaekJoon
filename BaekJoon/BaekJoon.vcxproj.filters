@@ -1821,6 +1821,9 @@
     <ClCompile Include="16 Sort 마스터 배지훈 17263.cpp">
       <Filter>소스 파일\2025\2025_4</Filter>
     </ClCompile>
+    <ClCompile Include="17 조교는 새디스트야 14656.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
