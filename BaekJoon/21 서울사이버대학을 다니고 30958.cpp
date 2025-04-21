@@ -11,7 +11,7 @@ int main()
 	int n, big = 0;
 	string input;
 	cin >> n;
-	cin.clear();
+	cin.ignore();
 	getline(cin, input);
 	for (int i = 0; i < input.size(); i++)
 	{
