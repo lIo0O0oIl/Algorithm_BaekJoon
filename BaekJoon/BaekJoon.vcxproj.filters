@@ -1845,6 +1845,12 @@
     <ClCompile Include="24 손가락 게임 31866.cpp">
       <Filter>소스 파일\2025\2025_4</Filter>
     </ClCompile>
+    <ClCompile Include="25 그림 1926.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
+    <ClCompile Include="26 괴짜 교수 11109.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
