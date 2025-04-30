@@ -1860,6 +1860,9 @@
     <ClCompile Include="29 구멍 33571.cpp">
       <Filter>소스 파일\2025\2025_4</Filter>
     </ClCompile>
+    <ClCompile Include="30 진주로 가자 31009.cpp">
+      <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
