@@ -85,6 +85,9 @@
     <Filter Include="소스 파일\2025\2025_4">
       <UniqueIdentifier>{728abe15-69f2-47aa-98c5-25097cda0540}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_5">
+      <UniqueIdentifier>{63f2b582-feaa-4b5d-be92-f967c7665114}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1862,6 +1865,9 @@
     </ClCompile>
     <ClCompile Include="30 진주로 가자 31009.cpp">
       <Filter>소스 파일\2025\2025_4</Filter>
+    </ClCompile>
+    <ClCompile Include="1 카드 게임 32141.cpp">
+      <Filter>소스 파일\2025\2025_5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
