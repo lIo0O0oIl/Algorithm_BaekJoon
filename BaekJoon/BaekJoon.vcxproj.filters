@@ -1905,6 +1905,9 @@
     <ClCompile Include="13 카드 공장 17273.cpp">
       <Filter>소스 파일\2025\2025_5</Filter>
     </ClCompile>
+    <ClCompile Include="14 스네이크버드 16435.cpp">
+      <Filter>소스 파일\2025\2025_5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
