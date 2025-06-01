@@ -88,6 +88,9 @@
     <Filter Include="소스 파일\2025\2025_5">
       <UniqueIdentifier>{63f2b582-feaa-4b5d-be92-f967c7665114}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_6">
+      <UniqueIdentifier>{9ec97844-31ef-4808-9911-65d8c9657c4f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -1952,6 +1955,12 @@
     </ClCompile>
     <ClCompile Include="30 하얀 칸 1100.cpp">
       <Filter>소스 파일\2025\2025_5</Filter>
+    </ClCompile>
+    <ClCompile Include="31 레퓨닛의 덧셈 33964.cpp">
+      <Filter>소스 파일\2025\2025_5</Filter>
+    </ClCompile>
+    <ClCompile Include="1 최소, 최대 2 20053.cpp">
+      <Filter>소스 파일\2025\2025_6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
