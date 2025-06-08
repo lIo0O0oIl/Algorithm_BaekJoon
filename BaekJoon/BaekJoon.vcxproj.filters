@@ -1974,6 +1974,15 @@
     <ClCompile Include="5 단어 순서 뒤집기 12605.cpp">
       <Filter>소스 파일\2025\2025_6</Filter>
     </ClCompile>
+    <ClCompile Include="6 Reverse 26546.cpp">
+      <Filter>소스 파일\2025\2025_6</Filter>
+    </ClCompile>
+    <ClCompile Include="7 FYI 17863.cpp">
+      <Filter>소스 파일\2025\2025_6</Filter>
+    </ClCompile>
+    <ClCompile Include="8 Basketball One-on-One 18198.cpp">
+      <Filter>소스 파일\2025\2025_6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
