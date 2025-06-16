@@ -2004,6 +2004,9 @@
     <ClCompile Include="15 거스름돈 5585.cpp">
       <Filter>소스 파일\2025\2025_6</Filter>
     </ClCompile>
+    <ClCompile Include="16 숫자 놀이 2145.cpp">
+      <Filter>소스 파일\2025\2025_6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
