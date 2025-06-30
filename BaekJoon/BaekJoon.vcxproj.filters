@@ -2046,6 +2046,9 @@
     <ClCompile Include="29 나는 친구가 적다 %28Small%29 16171.cpp">
       <Filter>소스 파일\2025\2025_6</Filter>
     </ClCompile>
+    <ClCompile Include="30 다트 2756.cpp">
+      <Filter>소스 파일\2025\2025_6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
