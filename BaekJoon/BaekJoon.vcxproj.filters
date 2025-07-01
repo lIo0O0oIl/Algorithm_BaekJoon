@@ -91,6 +91,9 @@
     <Filter Include="소스 파일\2025\2025_6">
       <UniqueIdentifier>{9ec97844-31ef-4808-9911-65d8c9657c4f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_7">
+      <UniqueIdentifier>{7f2d71cf-8ffb-4437-9827-3c14148a67d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2048,6 +2051,9 @@
     </ClCompile>
     <ClCompile Include="30 다트 2756.cpp">
       <Filter>소스 파일\2025\2025_6</Filter>
+    </ClCompile>
+    <ClCompile Include="1 박사 과정 5026.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
