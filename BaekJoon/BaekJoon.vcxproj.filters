@@ -2061,6 +2061,9 @@
     <ClCompile Include="3 鉛筆 2 %28Pencils 2%29 33161.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
+    <ClCompile Include="4 요다 5363.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
