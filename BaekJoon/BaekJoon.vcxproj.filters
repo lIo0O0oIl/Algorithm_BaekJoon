@@ -2067,6 +2067,9 @@
     <ClCompile Include="5 니모를 찾아서 10173.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
+    <ClCompile Include="6 Words 4072.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
