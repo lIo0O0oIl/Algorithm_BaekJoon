@@ -2094,6 +2094,12 @@
     <ClCompile Include="14 대표값 2592.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
+    <ClCompile Include="16 도비의 영어 공부 2386.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
+    <ClCompile Include="15 줄임말 만들기 3181.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
