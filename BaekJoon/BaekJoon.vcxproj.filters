@@ -2103,6 +2103,9 @@
     <ClCompile Include="17 5와 6의 차이 2864.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
+    <ClCompile Include="18 알파벳 거리 5218.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
