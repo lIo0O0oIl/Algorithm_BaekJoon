@@ -2106,6 +2106,15 @@
     <ClCompile Include="18 알파벳 거리 5218.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
+    <ClCompile Include="19 A + B 32260.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
+    <ClCompile Include="20 身長%28Height%29 24086.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
+    <ClCompile Include="21 연길이의 이상형 20540.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
