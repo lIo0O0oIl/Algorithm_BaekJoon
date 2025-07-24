@@ -2121,6 +2121,9 @@
     <ClCompile Include="23 다중 학목 선호도 조사 %28small%29.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
     </ClCompile>
+    <ClCompile Include="24 Greetings 17548.cpp">
+      <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
