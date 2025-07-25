@@ -480,6 +480,7 @@
     <ClCompile Include="25 그림 1926.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="25 더하기 14918.cpp" />
     <ClCompile Include="25 파일 완전 삭제 9243.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
