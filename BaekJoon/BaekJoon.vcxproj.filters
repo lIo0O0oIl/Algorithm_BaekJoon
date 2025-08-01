@@ -94,6 +94,9 @@
     <Filter Include="소스 파일\2025\2025_7">
       <UniqueIdentifier>{7f2d71cf-8ffb-4437-9827-3c14148a67d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_8">
+      <UniqueIdentifier>{912e9c09-c496-4351-af51-a6c54d05c2a2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2147,6 +2150,9 @@
     </ClCompile>
     <ClCompile Include="31 Billing 5342.cpp">
       <Filter>소스 파일\2025\2025_7</Filter>
+    </ClCompile>
+    <ClCompile Include="1 Oddities 10480.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
