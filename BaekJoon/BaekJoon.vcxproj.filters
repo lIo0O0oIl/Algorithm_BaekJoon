@@ -2154,6 +2154,12 @@
     <ClCompile Include="1 Oddities 10480.cpp">
       <Filter>소스 파일\2025\2025_8</Filter>
     </ClCompile>
+    <ClCompile Include="2 Rust Study 30033.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
+    <ClCompile Include="3 3 つの整数 %28Three Integers%29 18408.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
