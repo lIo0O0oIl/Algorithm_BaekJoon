@@ -2184,6 +2184,9 @@
     <ClCompile Include="11 친구 친구 10865.cpp">
       <Filter>소스 파일\2025\2025_8</Filter>
     </ClCompile>
+    <ClCompile Include="12 Fan Death 15633.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
