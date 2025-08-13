@@ -2187,6 +2187,9 @@
     <ClCompile Include="12 Fan Death 15633.cpp">
       <Filter>소스 파일\2025\2025_8</Filter>
     </ClCompile>
+    <ClCompile Include="13 아이 러브 크로아티아 9517.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
