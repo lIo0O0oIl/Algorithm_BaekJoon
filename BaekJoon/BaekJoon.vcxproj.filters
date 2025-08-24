@@ -2217,6 +2217,12 @@
     <ClCompile Include="22 문자열을 만들어요 32297.cpp">
       <Filter>소스 파일\2025\2025_8</Filter>
     </ClCompile>
+    <ClCompile Include="23 Piece of Cake 17874.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
+    <ClCompile Include="24 Baseball 10214.cpp">
+      <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
