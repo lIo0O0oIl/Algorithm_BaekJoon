@@ -97,6 +97,9 @@
     <Filter Include="소스 파일\2025\2025_8">
       <UniqueIdentifier>{912e9c09-c496-4351-af51-a6c54d05c2a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_9">
+      <UniqueIdentifier>{215f1754-5f35-49dc-9c0f-3d7ee0ea952d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2243,6 +2246,9 @@
     </ClCompile>
     <ClCompile Include="31 Tax 14182.cpp">
       <Filter>소스 파일\2025\2025_8</Filter>
+    </ClCompile>
+    <ClCompile Include="1 Dyslexia 8371.cpp">
+      <Filter>소스 파일\2025\2025_9</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
