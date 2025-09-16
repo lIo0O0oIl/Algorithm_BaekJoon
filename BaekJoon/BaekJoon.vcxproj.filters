@@ -2292,6 +2292,9 @@
     <ClCompile Include="15 Shifty Sum 14682.cpp">
       <Filter>소스 파일\2025\2025_9</Filter>
     </ClCompile>
+    <ClCompile Include="16 Volta 13610.cpp">
+      <Filter>소스 파일\2025\2025_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
