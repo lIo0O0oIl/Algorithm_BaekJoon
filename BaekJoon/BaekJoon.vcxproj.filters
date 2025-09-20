@@ -2298,6 +2298,15 @@
     <ClCompile Include="17 계산기 프로그램 5613.cpp">
       <Filter>소스 파일\2025\2025_9</Filter>
     </ClCompile>
+    <ClCompile Include="18 Cupcake Party  24568.cpp">
+      <Filter>소스 파일\2025\2025_9</Filter>
+    </ClCompile>
+    <ClCompile Include="19 찾아오시는 길 34217.cpp">
+      <Filter>소스 파일\2025\2025_9</Filter>
+    </ClCompile>
+    <ClCompile Include="20 사과와 바나나 나눠주기 14914.cpp">
+      <Filter>소스 파일\2025\2025_9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
