@@ -100,6 +100,9 @@
     <Filter Include="소스 파일\2025\2025_9">
       <UniqueIdentifier>{215f1754-5f35-49dc-9c0f-3d7ee0ea952d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_10">
+      <UniqueIdentifier>{86fa9981-bd97-4ad8-b141-cf3c3cd26af1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2333,6 +2336,12 @@
     </ClCompile>
     <ClCompile Include="29 Gift 9848.cpp">
       <Filter>소스 파일\2025\2025_9</Filter>
+    </ClCompile>
+    <ClCompile Include="30 Flatter Land 34424.cpp">
+      <Filter>소스 파일\2025\2025_9</Filter>
+    </ClCompile>
+    <ClCompile Include="1 Donation Packaging 11795.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
