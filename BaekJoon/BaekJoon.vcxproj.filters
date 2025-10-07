@@ -2349,6 +2349,21 @@
     <ClCompile Include="3 Max Volume 9776.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
+    <ClCompile Include="4 Hack-a-Holics 34443.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="4 We love kriii 10718.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="5 Parking Pandemonium 34297.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="6 Hedgemony (Small) 12351.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="7 Digit Count 25841.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
