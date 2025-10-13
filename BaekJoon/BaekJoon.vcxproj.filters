@@ -2379,6 +2379,9 @@
     <ClCompile Include="12 Ship Selection 10180.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
+    <ClCompile Include="13 ZAMKA 11874.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
