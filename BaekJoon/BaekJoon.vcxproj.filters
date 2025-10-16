@@ -2352,9 +2352,6 @@
     <ClCompile Include="4 Hack-a-Holics 34443.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
-    <ClCompile Include="4 We love kriii 10718.cpp">
-      <Filter>소스 파일\2025\2025_10</Filter>
-    </ClCompile>
     <ClCompile Include="5 Parking Pandemonium 34297.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
@@ -2386,6 +2383,9 @@
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
     <ClCompile Include="15 주차 요금 정산하기 33753.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="16 Sarah%27s Toys 5102.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
   </ItemGroup>
