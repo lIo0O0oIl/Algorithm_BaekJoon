@@ -2421,6 +2421,12 @@
     <ClCompile Include="27 내 학점을 구해줘 10984.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
+    <ClCompile Include="28 배수 찾기 4504.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="29 홀수일까 짝수일까 5988.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
