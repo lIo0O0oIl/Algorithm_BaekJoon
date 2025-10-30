@@ -2427,6 +2427,9 @@
     <ClCompile Include="29 홀수일까 짝수일까 5988.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
     </ClCompile>
+    <ClCompile Include="30 2의 제곱인가 11966.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
