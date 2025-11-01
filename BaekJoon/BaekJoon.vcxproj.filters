@@ -103,6 +103,9 @@
     <Filter Include="소스 파일\2025\2025_10">
       <UniqueIdentifier>{86fa9981-bd97-4ad8-b141-cf3c3cd26af1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_11">
+      <UniqueIdentifier>{d1300686-e775-4955-879f-49803fcc2eea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2429,6 +2432,12 @@
     </ClCompile>
     <ClCompile Include="30 2의 제곱인가 11966.cpp">
       <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="31 앵그리 창영 3034.cpp">
+      <Filter>소스 파일\2025\2025_10</Filter>
+    </ClCompile>
+    <ClCompile Include="1 가위 바위 보 4493.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
