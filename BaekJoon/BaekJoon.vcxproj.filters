@@ -2439,6 +2439,15 @@
     <ClCompile Include="1 가위 바위 보 4493.cpp">
       <Filter>소스 파일\2025\2025_11</Filter>
     </ClCompile>
+    <ClCompile Include="2 Above 34362.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
+    <ClCompile Include="3 Equality 13985.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
+    <ClCompile Include="4 ZOAC 4 23971.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
