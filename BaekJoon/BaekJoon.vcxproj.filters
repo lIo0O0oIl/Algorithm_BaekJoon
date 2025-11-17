@@ -2478,6 +2478,15 @@
     <ClCompile Include="14 사격 내기 27960.cpp">
       <Filter>소스 파일\2025\2025_11</Filter>
     </ClCompile>
+    <ClCompile Include="15 역사를 걸으면 동국이 보이고 34721.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
+    <ClCompile Include="16 Dount shop 34455.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
+    <ClCompile Include="17 겨울왕국 티켓 예매 18247.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
