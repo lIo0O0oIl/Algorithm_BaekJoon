@@ -2487,6 +2487,12 @@
     <ClCompile Include="17 겨울왕국 티켓 예매 18247.cpp">
       <Filter>소스 파일\2025\2025_11</Filter>
     </ClCompile>
+    <ClCompile Include="창용이의 시계 12840.cpp">
+      <Filter>소스 파일\Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="18 특정 대문자를 소문자로 바꾸기 26040.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
