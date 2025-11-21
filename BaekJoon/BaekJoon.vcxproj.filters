@@ -2499,6 +2499,9 @@
     <ClCompile Include="20 연세여 사랑한다 25915.cpp">
       <Filter>소스 파일\2025\2025_11</Filter>
     </ClCompile>
+    <ClCompile Include="21 팰린드롬 소떡소떡 25630.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
