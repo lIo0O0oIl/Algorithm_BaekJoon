@@ -2505,6 +2505,9 @@
     <ClCompile Include="22 알파벳 뒤집기 30032.cpp">
       <Filter>소스 파일\2025\2025_11</Filter>
     </ClCompile>
+    <ClCompile Include="23 빅데이터 vs 정보보호 vs 인공지능 30957.cpp">
+      <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
