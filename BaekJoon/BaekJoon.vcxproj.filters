@@ -106,6 +106,9 @@
     <Filter Include="소스 파일\2025\2025_11">
       <UniqueIdentifier>{d1300686-e775-4955-879f-49803fcc2eea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2025\2025_12">
+      <UniqueIdentifier>{75b564ee-c1a5-41a2-b3c9-4eb640fb7ca5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2528,6 +2531,9 @@
     </ClCompile>
     <ClCompile Include="30 행복 15969.cpp">
       <Filter>소스 파일\2025\2025_11</Filter>
+    </ClCompile>
+    <ClCompile Include="1 5의 수난 23037.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
