@@ -2544,6 +2544,9 @@
     <ClCompile Include="4 대전과학고등학교를 사랑하십니까 34691.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
+    <ClCompile Include="5 창영이의 일기장 2954.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
