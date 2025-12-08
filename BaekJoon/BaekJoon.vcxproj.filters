@@ -2556,6 +2556,9 @@
     <ClCompile Include="7 이제는 더 이상 물러날 곳이 없다 30455.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
+    <ClCompile Include="8 試験 %28Exam%29 18411.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
