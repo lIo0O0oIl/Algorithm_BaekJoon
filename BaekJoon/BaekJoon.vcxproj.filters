@@ -2562,12 +2562,6 @@
     <ClCompile Include="9 Ahmed Aly 10698.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
-    <ClCompile Include="10 샷건 32371.cpp">
-      <Filter>소스 파일\2025\2025_12</Filter>
-    </ClCompile>
-    <ClCompile Include="11 뚊 11383.cpp">
-      <Filter>소스 파일\2025\2025_12</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
