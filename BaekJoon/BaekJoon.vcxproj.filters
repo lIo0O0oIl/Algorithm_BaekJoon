@@ -2571,6 +2571,21 @@
     <ClCompile Include="12 정열적인 정렬 16212.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
+    <ClCompile Include="12 Moving 24079.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="13 스키테일 암호 23080.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="14 Арифметическая магия 18096.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="14 생일 출력하기 2555.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="15 수 정렬하기 4 11931.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
