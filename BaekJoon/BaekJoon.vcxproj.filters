@@ -2586,6 +2586,9 @@
     <ClCompile Include="15 수 정렬하기 4 11931.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
+    <ClCompile Include="16 수 정렬하기 5 15688.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
