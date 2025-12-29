@@ -2613,6 +2613,21 @@
     <ClCompile Include="24 Grading Exams 9296.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
     </ClCompile>
+    <ClCompile Include="25 채플이 너무해 34945.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="26 Population 26561.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="27 Hay Bales 5919.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="28 너의 핸들은 15819.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="29 Rotating letters 6750.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
