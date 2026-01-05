@@ -109,6 +109,12 @@
     <Filter Include="소스 파일\2025\2025_12">
       <UniqueIdentifier>{75b564ee-c1a5-41a2-b3c9-4eb640fb7ca5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2026">
+      <UniqueIdentifier>{a5e0efa5-2f59-49c8-875c-5764338cd2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2026\2026_1">
+      <UniqueIdentifier>{4f5d1237-8f05-4d80-9ddc-d70d418d8fd8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2630,6 +2636,24 @@
     </ClCompile>
     <ClCompile Include="30 크리스마스 파티 10708.cpp">
       <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="1 공통교육과정 34813.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="2 수열 2559.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="3 Chanukah Challenge 15295.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="4 Harshad Numbers 16861.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="31 Chili Peppers 28249.cpp">
+      <Filter>소스 파일\2025\2025_12</Filter>
+    </ClCompile>
+    <ClCompile Include="5 繰り返し文字列 %28Repeating String%29 27329.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
