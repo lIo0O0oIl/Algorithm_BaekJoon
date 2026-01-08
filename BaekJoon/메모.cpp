@@ -27,14 +27,13 @@ https://www.acmicpc.net/problem/1212
 2 binary
 
 
-Solve later
-- https://www.acmicpc.net/problem/3079
-
-
 
 using ll = long long;	// new! good!
 typedef long long ll;	// original
 #define ll long long	// replace code
 
+
+
+https://www.acmicpc.net/problem/20303 그래프 문제
 
 */
