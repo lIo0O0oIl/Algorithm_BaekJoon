@@ -2664,6 +2664,12 @@
     <ClCompile Include="8 Contemporary Art 16600.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
+    <ClCompile Include="9 더하기 사이클 1110.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="10 시험 감독 13458.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
