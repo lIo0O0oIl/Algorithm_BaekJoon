@@ -2676,6 +2676,9 @@
     <ClCompile Include="12 택시 기하학 3053.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
+    <ClCompile Include="13 카카오뷰 큐레이팅 효용성 분석 24544.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
