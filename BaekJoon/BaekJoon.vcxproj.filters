@@ -2682,6 +2682,9 @@
     <ClCompile Include="14 PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 33845.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
+    <ClCompile Include="15 백설 공주와 일곱 난쟁이 3040.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
