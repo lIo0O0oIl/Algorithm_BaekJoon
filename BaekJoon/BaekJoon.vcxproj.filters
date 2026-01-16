@@ -2685,6 +2685,9 @@
     <ClCompile Include="15 백설 공주와 일곱 난쟁이 3040.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
+    <ClCompile Include="16 일곱 난쟁이 2309.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
