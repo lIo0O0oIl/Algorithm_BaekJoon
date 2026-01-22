@@ -2703,6 +2703,9 @@
     <ClCompile Include="21 Dream Counting 6212.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
+    <ClCompile Include="22 Identify, Sort, Index, Solve 26150.cpp.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
@@ -2711,6 +2714,5 @@
     <None Include="14 당구 좀 치자 제발 32642.cpp">
       <Filter>소스 파일\2024\2024_11</Filter>
     </None>
-    <None Include="20 I%27ve Been Everywhere" />
   </ItemGroup>
 </Project>
