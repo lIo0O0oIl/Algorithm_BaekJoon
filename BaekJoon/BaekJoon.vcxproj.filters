@@ -2724,6 +2724,9 @@
     <ClCompile Include="28 알록달록 앵무새 28445.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
+    <ClCompile Include="29 이중 반복문 34849.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
