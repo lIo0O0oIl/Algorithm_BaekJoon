@@ -2715,9 +2715,6 @@
     <ClCompile Include="25 Receptet 26933.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
-    <ClCompile Include="26 2차원 배열의 합 2167.cpp">
-      <Filter>소스 파일\2026\2026_1</Filter>
-    </ClCompile>
     <ClCompile Include="27 Final Score 15233.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
@@ -2725,6 +2722,12 @@
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
     <ClCompile Include="29 이중 반복문 34849.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="30 Covid-19 20673.cpp">
+      <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="26 2차원 배열의 합 2167.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
     </ClCompile>
   </ItemGroup>
