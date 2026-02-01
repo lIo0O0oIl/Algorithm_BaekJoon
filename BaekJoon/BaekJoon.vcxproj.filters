@@ -115,6 +115,9 @@
     <Filter Include="소스 파일\2026\2026_1">
       <UniqueIdentifier>{4f5d1237-8f05-4d80-9ddc-d70d418d8fd8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2026\2026_2">
+      <UniqueIdentifier>{b97c5506-d1fd-4ba0-a7e9-3b9eb4b90982}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0의 개수 11170.cpp">
@@ -2732,6 +2735,9 @@
     </ClCompile>
     <ClCompile Include="31 Federation Favorites 10181.cpp">
       <Filter>소스 파일\2026\2026_1</Filter>
+    </ClCompile>
+    <ClCompile Include="1 붙임성 좋은 총총이 26069.cpp">
+      <Filter>소스 파일\2026\2026_2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
