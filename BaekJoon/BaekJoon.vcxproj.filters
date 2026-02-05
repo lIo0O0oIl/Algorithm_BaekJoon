@@ -2748,6 +2748,9 @@
     <ClCompile Include="4 점수 집계 9076.cpp">
       <Filter>소스 파일\2026\2026_2</Filter>
     </ClCompile>
+    <ClCompile Include="5 Kinder Surprise 23544.cpp">
+      <Filter>소스 파일\2026\2026_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
