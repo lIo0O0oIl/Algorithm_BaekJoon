@@ -2760,6 +2760,12 @@
     <ClCompile Include="8 귀걸이 1380.cpp">
       <Filter>소스 파일\2026\2026_2</Filter>
     </ClCompile>
+    <ClCompile Include="11 역원소 정렬 5648.cpp">
+      <Filter>소스 파일\2026\2026_2</Filter>
+    </ClCompile>
+    <ClCompile Include="10 余り (Remainder) 24078.cpp">
+      <Filter>소스 파일\2026\2026_2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="10 단지번호붙이기 2667.cpp">
