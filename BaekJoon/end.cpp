@@ -98,3 +98,17 @@
 //	}
 //	cout << arr[n - 1] + (arr[1] - arr[0]);
 //}
+
+
+// https://www.acmicpc.net/problem/34823
+
+//#include <iostream>
+//#include <algorithm>
+//using namespace std;
+//
+//int main()
+//{
+//	int y, c, p;
+//	cin >> y >> c >> p;
+//	cout << min({ y, c / 2, p });
+//}
